@@ -1,0 +1,54 @@
+s32 func_802E7734(s32, s32, s32, s32, f32, f32, f32);
+void *func_803084B0();
+unsigned short func_80318C1C();
+extern f32 D_80346994;
+extern f32 D_80346998;
+extern f32 D_8034699C;
+extern f32 D_803469A0;
+extern f32 D_803469A4;
+extern f32 D_803469A8;
+extern f32 D_803469AC;
+extern f32 D_803469B0;
+extern f32 D_803469B4;
+extern f32 D_803469B8;
+s32 func_8030DE60(void *arg0)
+{
+  register void *temp_v0_2;
+  register void *temp_v0_4;
+  void *temp_v0;
+  void *temp_v0_3;
+  temp_v0 = func_803084B0((void *) 4, 2, 0, 2, 1, 2, 0, -2000.0f, 1200.0, 0.0f);
+  *((void **) (((char *) arg0) + 0x70)) = temp_v0;
+  *((f32 *) (((char *) temp_v0) + 0x7DC)) = (f32) D_80346994;
+  func_802E7734(*((void **) (((char *) arg0) + 0x70)), 0, 0, 0xC57A0000, D_80346998, 150.0f, 1.0f);
+  func_802E7734(*((void **) (((char *) arg0) + 0x70)), 1, 0, 0x457A0000, D_8034699C, 150.0f, 1.0f);
+  func_80318C1C(*((void **) (((char *) arg0) + 0x70)));
+  temp_v0_2 = func_803084B0(arg0, 1, 2, 0, 2, 1, 2, 0.0f, -2000.0f, 1200.f, 0.0f);
+  *((void **) (((char *) arg0) + 0x74)) = temp_v0_2;
+  *((f32 *) (((char *) temp_v0_2) + 0x7DC)) = 2.0f;
+  func_802E7734(*((void **) (((char *) arg0) + 0x74)), 0, 0xC1700000, 0xC5674000, D_803469A0, 200.0f, 1.0f);
+  func_802E7734(*((void **) (((char *) arg0) + 0x74)), 1, 0xC1700000, 0xC4FA0000, D_803469A4, 150.0f, 1.0f);
+  func_802E7734(*((void **) (((char *) arg0) + 0x74)), 2, 0xC1700000, 0xC47A0000, 800.0f, 150.0f, 1.0f);
+  func_802E7734(*((void **) (((char *) arg0) + 0x74)), 3, 0xC1700000, 0, 800.0f, 150.0f, 1.0f);
+  func_802E7734(*((void **) (((char *) arg0) + 0x74)), 4, 0xC1700000, 0x457A0000, 800.0f, 150.0f, 1.0f);
+  func_80318C1C(*((void **) (((char *) arg0) + 0x74)));
+  temp_v0_3 = func_803084B0(arg0, 2, 2, 0, 2, 1, 2, 0.0f, -2000.0f, 1200.0f, 0.0f);
+  *((void **) (((char *) arg0) + 0x78)) = temp_v0_3;
+  *((f32 *) (((char *) temp_v0_3) + 0x7DC)) = 3.0f;
+  func_802E7734(*((void **) (((char *) arg0) + 0x78)), 0, 0x41C80000, 0xC566A000, D_803469A8, 200.0f, 1.0f);
+  func_802E7734(*((void **) (((char *) arg0) + 0x78)), 1, 0x41C80000, 0xC4FA0000, 800.0f, 150.0f, 1.0f);
+  func_802E7734(*((void **) (((char *) arg0) + 0x78)), 2, 0x41C80000, 0xC47A0000, 800.0f, 150.0f, 1.0f);
+  func_802E7734(*((void **) (((char *) arg0) + 0x78)), 3, 0x41C80000, 0, D_803469AC, 150.0f, 1.0f);
+  func_802E7734(*((void **) (((char *) arg0) + 0x78)), 4, 0x41C80000, 0x457A0000, D_803469B0, 150.0f, 1.0f);
+  func_80318C1C(*((void **) (((char *) arg0) + 0x78)));
+  temp_v0_4 = func_803084B0(arg0, 3, 2, 0, 2, 1, 2, 0.0f, -2000.0f, 1200.f, 0.0);
+  *((void **) (((char *) arg0) + 0x7C)) = temp_v0_4;
+  *((f32 *) (((char *) temp_v0_4) + 0x7DC)) = (f32) D_803469B4;
+  func_802E7734(*((void **) (((char *) arg0) + 0x7C)), 0, 0x40A00000, 0xC57A0000, D_803469B8, 200.0f, 1.0f);
+  func_802E7734(*((void **) (((char *) arg0) + 0x7C)), 1, 0x40A00000, 0xC53B8000, 820.0f, 150.0f, 1.0f);
+  func_802E7734(*((void **) (((char *) arg0) + 0x7C)), 2, 0x40A00000, 0, 820.f, 150.0f, 1.0f);
+  func_80318C1C(*((void **) (((char *) arg0) + 0x7C)));
+  return 1;
+  ;
+}
+

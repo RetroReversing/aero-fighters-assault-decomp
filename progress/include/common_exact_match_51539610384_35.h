@@ -1,0 +1,52 @@
+/* decompdecomp donor translation unit v1 */
+
+
+
+
+
+
+
+
+
+
+
+
+typedef unsigned char u8;
+typedef unsigned short u16;
+typedef unsigned int u32;
+typedef unsigned long long u64;
+typedef signed char s8;
+typedef signed short s16;
+typedef signed int s32;
+typedef signed long long s64;
+typedef float f32;
+typedef double f64;
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+u64 k___ull_rshift(u64 a, u64 b) { return a >> b; }   
+u64 k___ull_rem(u64 a, u64 b) { return a % b; }    
+u64 k___ull_div(u64 a, u64 b) { return a / b; }    
+u64 k___ll_lshift(u64 a, u64 b) { return a << b; }   
+u64 k___ll_rem(u64 a, u64 b) { return a % b; }    
+s64 k___ll_div(s64 a, s64 b) { return a / b; }    
+s64 k___ll_mul(s64 a, s64 b) { return a * b; }    
+ 
+
+
+void k___ull_divremi(u64 *quot, u64 *rem, u64 val, u16 d) {
+    *quot = val / d;
+    *rem = val % d;
+}

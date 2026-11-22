@@ -1,0 +1,11 @@
+s32 func_802306FC(u8 arg0)
+{
+  s32 temp_t6;
+  temp_t6 = ((((((((((arg0 & 0xFF) & 0xFFFFFFFFFFFFFFFF) & 0xFFFFFFFFFFFFFFFF) & 0xFFFFFFFFFFFFFFFF) & 0xFFFFFFFFFFFFFFFF) & 0xFFFFFFFFFFFFFFFF) & 0xFFFFFFFFFFFFFFFF) & 0xFFFFFFFFFFFFFFFF) & 0xFFFFFFFFFFFFFFFF) & 0xFFFFFFFFFFFFFFFF) & 0xFFFFFFFFFFFFFFFF;
+  if ((temp_t6 >= 0x30) && (temp_t6 < 0x3A))
+  {
+    return temp_t6 - 0x30;
+  }
+  return 0;
+}
+

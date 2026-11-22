@@ -1,0 +1,1841 @@
+[
+ {
+  "function": "alSndpGetState",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 32-byte function fingerprint 7c646459cbc4db3bc4f51a8c81f5dfef350531cf; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218542.556399,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSndpStop",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 76-byte function fingerprint 0666d9bbaefe37f466395540c49fe00e8dd929b3; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218542.800527,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSndpDeallocate",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 80-byte function fingerprint 17a1b7c4ac26a64097cf48e89106872cf2646167; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218543.040833,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSndpAllocate",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 156-byte function fingerprint 716047cc782ba86dcc6804cc78df7aaba52f4105; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218543.220566,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSndpPlay",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 100-byte function fingerprint fa3320b73597c145b954e2658c3112495adbdc9f; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218543.736127,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSndpSetVol",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 88-byte function fingerprint 1edc9335e053d35730cb3f776833f590fab0e037; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218544.525084,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSndpSetPitch",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 84-byte function fingerprint a7a909bf762de7ab69377ae4d07335c63818cc7a; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218544.80591,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSndpSetFXMix",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 88-byte function fingerprint e5b1c977e6571f05f47b64e67bc1b7dcb7101a2c; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218545.236073,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSndpSetPan",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 88-byte function fingerprint 12a77984d0efee2d52bc218f93a4fd728afecf82; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218545.4291358,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alHeapInit",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 52-byte function fingerprint aa6829cda229c41bda5199f7e18c6faaea7ee1d2; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218545.6307461,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSndpNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 308-byte function fingerprint b2dd0a051118cf2cd4d1ad1aa618eb4bb169e43f; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218545.9302132,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__CSPPostNextSeqEvent",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 112-byte function fingerprint e450b9af5c68d24ebadd1ba900575fb0260d6e45; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218546.441163,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alCSPNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 364-byte function fingerprint 3b513abb99e108a9455ecab3c509150c8c04a068; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218546.6221921,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osSendMesg",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 332-byte function fingerprint 156e1fc3052428a5df25a84356596cc1832b179e; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218546.8648682,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alHeapDBAlloc",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 84-byte function fingerprint 9e455af90cf3349f2ae22829d91ef7a8d7701344; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218547.046571,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alBnkfNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 260-byte function fingerprint a86050baad9c39c952dac9e16054df916d8ed71f; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218547.198824,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSeqFileNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 64-byte function fingerprint e5c2636fd9c293c84594cf0fea0d95346c0b7db8; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218547.5503302,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alUnlink",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 48-byte function fingerprint a11a1a131cb54e11e69782e7c976fa572e5a92cd; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218547.70728,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alLink",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 36-byte function fingerprint d8f317c718c98d24daa7555ff58531c9b55079ba; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218547.904352,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alClose",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 56-byte function fingerprint c9c6f77795d385ac594d7c9d9992265e62efe58c; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218548.333531,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alInit",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 52-byte function fingerprint 18eb91df68b4e5ebc2ced93b7881a158329fdbca; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218548.79558,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osCreateMesgQueue",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 44-byte function fingerprint 20fd06078525c14045ed714e4fa1cf4192524256; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218548.9344482,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osCreateThread",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 324-byte function fingerprint 3933ae78fb6a6307a69a0594103af1145ae87cdb; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218550.3858619,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osStartThread",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 336-byte function fingerprint ee7cf1402c4ebce3ae96171d70889e95466f315d; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218551.294035,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osRecvMesg",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 312-byte function fingerprint 79729431cac8eea77aeaadadd2fa6f5a39fcecef; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218551.4136808,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osVirtualToPhysical",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 124-byte function fingerprint aab046366fea25bff48354398afa29884ad1e2cd; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218551.8466802,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "_timeToSamples",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 88-byte function fingerprint ea1efffb7dd7598db6d2c8071bed273c88e1de4e; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218552.2613492,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "_freePVoice",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 56-byte function fingerprint cec5b470ab62d3c49c0d49156617d8f185797878; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218552.669845,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "_collectPVoices",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 96-byte function fingerprint ec1e9e39a4d6faf9516dbc92b06db4e70170d4b0; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218552.803303,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__allocParam",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 48-byte function fingerprint 3515af1fece1dfef3c72f7a621d322727ef6d3b9; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218553.285046,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alAudioFrame",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 664-byte function fingerprint 16a07a303d50a6cba3fdb6ab815c7ae522afd9ad; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218554.3791308,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 768-byte function fingerprint 0d2575a48c47334dc7d6173875fcbfdc8dc01d7e; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218554.9817011,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osPiStartDma",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 268-byte function fingerprint ecf91138c29a6981eb2523ac5380859f738a7481; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218555.195468,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alCSeqGetLoc",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 160-byte function fingerprint 17172ae8027f46daf1d2675f24918545d2ef50c6; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218555.3728168,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alCSeqSetLoc",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 160-byte function fingerprint 1d515398187536f1f23c5856d0d185cf61a02967; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218555.5588639,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alCSeqNextEvent",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 760-byte function fingerprint 4ed5f5ef75cd70fc1da6948619b9aacab7a061c9; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218555.7865112,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alCSeqNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 276-byte function fingerprint 98ff598d6d34bab91dcd2c7c4aef8868271a3785; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218556.187517,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alCSeqNewMarker",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 364-byte function fingerprint 78b3df3b84a7a281417a1850f002b1c4efadd9dd; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218556.5316968,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alCSeqSecToTicks",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 252-byte function fingerprint fb7ec6a7f91f4fa4c780e5cf3b353ce43f44cb80; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218556.898855,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alCSeqTicksToSec",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 108-byte function fingerprint 36cb5369e4f830d997254bc32ae66e0ab49b7ef7; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218557.012639,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__alCSeqNextDelta",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 360-byte function fingerprint 53567718e0c83eff124a6983337812b7cf8c7739; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218557.106912,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "spDraw",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 3436-byte function fingerprint c7011640f5b8c28858764c5702d6c2d7b46df5bb; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218557.261415,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "spScale",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 100-byte function fingerprint fec9d54bc209357b6a6032d4c87070427f3a836d; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218557.36309,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osViBlack",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 112-byte function fingerprint a04d227aed64768660b7aca850729541c11dd0ed; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218557.626817,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osWritebackDCache",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 116-byte function fingerprint e40150e64f7e676797c0aaa5faa160b9dfc0a03b; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218557.885611,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osViSetSpecialFeatures",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 440-byte function fingerprint 060c63f6e6a873b7296a90e1d040ec413ff98bf5; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218558.1466408,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__ull_rshift",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 44-byte function fingerprint 7857af53dfc1a2645a6447df35b333b072e59914; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218558.374563,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__ull_div",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 60-byte function fingerprint 2bc6224c4eddd66ca056a871f82207e0f705fc4c; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218558.999431,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__ll_lshift",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 44-byte function fingerprint 619b4a439b057c7061e446f5f4e64d0fa364199f; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218559.1598248,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__ll_div",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 92-byte function fingerprint 7d080c1ec23df8385f98bcadcbd3365b54f7ed96; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218559.3028312,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__ll_mul",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 48-byte function fingerprint 3b4a53aa9a99118b6a7da4df5a737354329e6297; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218559.4643788,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__ull_divremi",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 96-byte function fingerprint d88d70e23128fb6fe41db5ae03be70f666f3ad26; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218559.763674,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__ll_mod",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 156-byte function fingerprint 97351ea7d69d83c93962081db78c458b150700b0; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218559.881907,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__ll_rshift",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 44-byte function fingerprint 5e10394a496a734c34cc263655ce136dc1de30df; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218559.991251,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osContStartQuery",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 132-byte function fingerprint 20fed30b85518a03e5b36f10906fb44ee29ad3cf; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218560.079592,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osContGetQuery",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 40-byte function fingerprint 10804e4f857df6e7a274f08f088ab35202c7d908; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218560.2655349,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osViSwapBuffer",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 80-byte function fingerprint 7138e38138757badcb6a26c47c11fa5990190303; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218560.4353669,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osWritebackDCacheAll",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 40-byte function fingerprint d063d68b0cddb4d55a854c220d43957d00a231e6; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218560.606505,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osSpTaskStartGo",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 64-byte function fingerprint 0eeac2c6cd96fd36fb489c1f527d83f8cb8da1f8; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218560.758795,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osCreateViManager",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 392-byte function fingerprint 13669012751e050804fd794491507a5c6079aa81; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218560.932992,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osViSetMode",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 104-byte function fingerprint c7afd5c17c242c44b70a682fa478e4524c8dcb07; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218561.0475001,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osSetEventMesg",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 104-byte function fingerprint fd047a49ecdd6f9aab7f844ff304f738639efab4; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218561.170048,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osViSetEvent",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 108-byte function fingerprint 94fe0195ae8e2fd2680d813f4b95126390c59e37; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218561.4393432,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osSpTaskYield",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 32-byte function fingerprint 563c1b111895e4f8265356f675741d5a2bfd560e; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218561.5404632,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osSpTaskYielded",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 128-byte function fingerprint 6e977ea7dcf9fac5e99dacee8a997c9a031b9f3d; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218561.757835,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osCreatePiManager",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 392-byte function fingerprint 1ff08406e3d8d95b2705e7df4d55bcc7e3f19597; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218561.9198232,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osSetThreadPri",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 224-byte function fingerprint 2b7cd51299f92b867ee415d700ec5b9341ea7f05; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218562.211145,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osSetTimer",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 212-byte function fingerprint 78bbadd6c7d24691ab2093967816d1b59ab34669; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218562.342046,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osContGetReadData",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 168-byte function fingerprint 5ce916b3392fef95ea90979fe73b1f3f964702b9; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218562.4493928,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "osInvalDCache",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 172-byte function fingerprint 74b9c960221192a32b52120af5fdf4cf95cdb0c7; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218562.59129,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "lldiv",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 256-byte function fingerprint 22c235b1be0bd82530a4c8a28797fc257b27e05f; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218562.727883,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "ldiv",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 132-byte function fingerprint 4ed2d2ce947881c01fdc97cc1e5be2db21749ade; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218562.864026,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alEvtqFlushType",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 172-byte function fingerprint 503021d13fa870193d86158cf66deac24b84267d; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218562.9737449,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alEvtqFlush",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 112-byte function fingerprint 57286c3f8e612abb096691a4ac05122db3a9a68b; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218563.248061,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alEvtqPostEvent",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 292-byte function fingerprint 776f5b68e1a46a0d35101a724239443312308f31; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218563.495316,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alEvtqNextEvent",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 140-byte function fingerprint 99f61970728565340655ac4d8ecb0d6f1b762d2b; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218563.587936,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alEvtqNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 116-byte function fingerprint f9c3b7c9d1375179089eb6f8c918b8b38caeb264; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218563.848012,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynAddPlayer",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 80-byte function fingerprint a79d67c87f6a2bc1a606fa737dfbc6a4d6aa8163; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218563.9897642,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "_allocatePVoice",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 232-byte function fingerprint 48b1df98eaec4be677658e1515c911b2cef7967c; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218564.095658,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynAllocVoice",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 320-byte function fingerprint f9ce1781e8bc5b30b4618ce107a11e124268ddc7; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218564.255741,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynStartVoice",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 140-byte function fingerprint 188d1e11d99eeca1a06ed02461fccb2938f6ad83; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218564.404075,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynSetPan",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 132-byte function fingerprint 6f89651619676a3c0b14b9116503ce8dd389ef1a; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218564.572187,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynSetVol",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 156-byte function fingerprint 49aecccbaaae7456dea033d6b3f7abb3f86fde13; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218564.707474,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynSetPitch",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 132-byte function fingerprint c3f5966d396f997038f5b1edaa48251c44189c16; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218564.815039,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynSetFXMix",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 148-byte function fingerprint bb505f86ea4c54c281e582c6f04e51caf7647329; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218565.095576,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynStopVoice",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 120-byte function fingerprint 9ec44d20229c03ac94718e40e7b0a0912dcda3d1; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218565.297875,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynFreeVoice",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 176-byte function fingerprint 6a56e750b0a90897317371899b7a34d50338b7c2; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218565.397567,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__setInstChanState",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 84-byte function fingerprint 1c4e5bc4f50cea1ff37f52e0ddef08e5a6590000; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218565.5773,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__resetPerfChanState",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 128-byte function fingerprint 7f73e2e13c33389732b63a69758010c00f1ce86f; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218565.8796318,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__initFromBank",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 180-byte function fingerprint ac23d14e4d8d18a0e5b4c06fa6ee6062ed165b7d; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218566.098513,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__vsDelta",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 36-byte function fingerprint c71ccc3c139eb07fa9ccb272d3f38a85305609a3; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218566.297375,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__vsVol",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 136-byte function fingerprint 10c09b72b09bb852a8e2ccdca4f7ec16c7d9c23f; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218566.595565,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__seqpReleaseVoice",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 300-byte function fingerprint cf57564cae6b74a2b674df43707cf98ea0f71d32; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218566.791476,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__voiceNeedsNoteKill",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 168-byte function fingerprint c782328080849fcccb5753c6b27a61006d0f2941; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218567.172499,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__unmapVoice",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 112-byte function fingerprint b7734cef7f06ec8f5687adec29ef480664e9eb09; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218567.695856,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__postNextSeqEvent",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 220-byte function fingerprint 68a0e4b6a598aae5cd393937ef73c76e014fe326; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218567.841098,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__vsPan",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 72-byte function fingerprint 4c7dabb92065b25f91417c463c9ccce5544333f9; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218567.979174,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__lookupVoice",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 116-byte function fingerprint 0cb55966bc84beb01db3051a044266dc355d50c2; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218568.1661031,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__mapVoice",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 112-byte function fingerprint 34559596340f1466810024965892e1ab08641776; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218568.5538292,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__lookupSoundQuick",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 252-byte function fingerprint c4b7ba38a360588e050572793ede0c4991df3db3; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218568.7331378,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__seqpStopOsc",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 260-byte function fingerprint a9f5ea6b67b5b36d33520979b2adca6d25d3b5e7; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218569.03522,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__initChanState",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 112-byte function fingerprint 40c223b6bfaddfaa867db7b48670a8600c04b955; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218569.3364758,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSeqpNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 384-byte function fingerprint 3287e97e3b8bb9a1e3c1a9b36aea03debb505551; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218569.726169,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alCents2Ratio",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 80-byte function fingerprint 19f324e9c3b89cc3fb325f143f6cfbe8cfb37d0d; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218569.940541,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynStartVoiceParams",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 228-byte function fingerprint 92d34e6e39bc7a6a0a2b41cc4de18a7d2148a2f5; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218570.2752059,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__osDequeueThread",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 64-byte function fingerprint 2488740ea701e1101eb4495d5ad2ca77d50d677d; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218570.905546,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSaveNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 68-byte function fingerprint 60c211dca3c97ddcf5029d822dac6092de19829f; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218571.8137548,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alMainBusNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 84-byte function fingerprint aaec9b9c3185ecab627f56342df613dbe1ccfdc0; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218572.081414,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alAuxBusNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 84-byte function fingerprint 79e330823dbe2b1ca9b7e04f0e11196b3c64e9a3; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218572.311549,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alResampleNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 136-byte function fingerprint 3629e9089a61bd1e715abadac4556955173409ca; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218572.529866,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alLoadNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 168-byte function fingerprint 2fca0512c6b1e7aeb993edeb83e7773ef0f3f90e; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218573.099997,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alEnvmixerNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 164-byte function fingerprint 61a96f374cf9fa473a54fef53822e4600531e859; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218573.509098,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alFxNew",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 1084-byte function fingerprint 7c99f37db38f8579e59b512725eb01833b25726d; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218573.969235,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alSynAllocFX",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 152-byte function fingerprint 84063a9dd0d69f6089f4ac4f7e07aa7a76af1b45; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218574.202076,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alMainBusPull",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 288-byte function fingerprint 9a346130cc89a4f261bffe405ea1dc50cf1c194f; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218574.41247,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alLoadParam",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 468-byte function fingerprint d3b47bddea71672addda95523d8dfe8ffc404423; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218574.597897,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alRaw16Pull",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 940-byte function fingerprint 0f43fb3c8a6bba23d3f458ababf2a2b4d0d25e7b; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218574.953999,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alAdpcmPull",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 1184-byte function fingerprint ad1320f3f2a3a170efe06f37ab2a9436c70161b1; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218575.1726239,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alResampleParam",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 236-byte function fingerprint 9b5c6503d701c5dbad77638b43cb48a3dee53229; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218575.480715,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alResamplePull",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 520-byte function fingerprint dbe699c6c02a6569dbc07f92a9280064afeb834c; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218575.680834,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "_ldexpf",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 40-byte function fingerprint d39e7f4815749ca7887543247690571fcf28eecc; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218575.8393338,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "_frexpf",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 236-byte function fingerprint a400c4b6d18e9ec79c6e65fa958e42191fa713eb; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218576.0582678,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alEnvmixerParam",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 224-byte function fingerprint b87b5265a41d172c0ee3bf7d1967dc83d1db1c21; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218576.635966,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "alEnvmixerPull",
+  "text": "exact relocation-normalized SDK signature. Exact relocation-normalized 1352-byte function fingerprint 05a3a2a321c0d2f3cf3f4d0677f683b981401e8a; one name across selected SDK signatures, unique target fingerprint. Libraries: built in / decompals/ultralib e24c836796df. Name inferred from library code; not a verified C match.",
+  "by": "autopilot",
+  "created_at": 1795218577.0332851,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "func_802EA070",
+  "text": "Autopilot matched from MIPS leaf template",
+  "by": "autopilot",
+  "created_at": 1795222017.9839308,
+  "score_before": 300,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:945c184d7dbe1ebe931e98e8d9c02240617d6de0135e3d73c7b8e69b90713fb5"
+ },
+ {
+  "function": "func_8023CD4C",
+  "text": "Autopilot matched from MIPS leaf template",
+  "by": "autopilot",
+  "created_at": 1795222022.419061,
+  "score_before": 300,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:f25f63dda2c28bd6ae535a1daa1f9bcd8b72824914fc6eac7c35d189d4ee1f6d"
+ },
+ {
+  "function": "func_803181E8",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795224753.1765,
+  "score_before": 120,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:aa4fe1c89a72d7719413dc401a016468712dd05fc0e686d51c4b401b49e3e6d2"
+ },
+ {
+  "function": "func_803186A0",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795224758.6129851,
+  "score_before": 120,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:308bba1dd217155938051f0965a64c36c80f6a3b0f5ac1955e1c9d5143fe3f48"
+ },
+ {
+  "function": null,
+  "text": "[func_8031E6D0 before reimport: it matched with this C]\n/* identical to func_8028B1F0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_8031E6D0(s32 arg0) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_8031E6D8 before reimport: it matched with this C]\n/* identical to func_8028B1F0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_8031E6D8(s32 arg0) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_8031E6E0 before reimport: it matched with this C]\n/* identical to func_8028B1F0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_8031E6E0(s32 arg0) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_8031E6E8 before reimport: it matched with this C]\n/* identical to func_8028B1F0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_8031E6E8(s32 arg0) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_8031E6F8 before reimport: it matched with this C]\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nM2C_UNK func_802C68B0(M2C_UNK *, M2C_UNK, M2C_UNK, M2C_UNK *); /* extern */\nextern M2C_UNK D_80349440;\nextern M2C_UNK func_8028A440;\n\nvoid func_8031E6F8(void) {\n    func_802C68B0(&D_80349440, 0x14, 0xC, &func_8028A440);\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_8031F7BC before reimport: it matched with this C]\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_8031F7BC(void *arg0) {\n    M2C_FIELD(arg0, s16 *, 0xD4) = 0;\n    M2C_FIELD(arg0, s16 *, 0xBE) = 0;\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_803200F8 before reimport: it matched with this C]\n/* identical to func_8028B1F0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_803200F8(s32 arg0) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320100 before reimport: it matched with this C]\n/* identical to func_8028B1F0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80320100(s32 arg0) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320108 before reimport: it matched with this C]\n/* identical to func_8028B1F0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80320108(s32 arg0) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320110 before reimport: it matched with this C]\n/* identical to func_8028B1F0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80320110(s32 arg0) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_803204E0 before reimport: it matched with this C]\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nM2C_UNK func_80228DE0(M2C_UNK, s32, s32);           /* extern */\n\nvoid func_803204E0(s32 arg0, M2C_UNK arg1) {\n    func_80228DE0(arg1, arg0 + 0xF4, arg0);\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_8032067C before reimport: it matched with this C]\n/* identical to func_8021D444 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_8032067C(void) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320C50 before reimport: it matched with this C]\n/* machine-generated by m2c: a starting point, not a match */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nM2C_UNK func_802C679C(void *);                      /* extern */\nM2C_UNK func_80320CB0();                            /* extern */\nextern M2C_UNK D_80347920;\n\nvoid func_80320C50(void *arg0, s32 arg1) {\n    if (arg0 != NULL) {\n        M2C_FIELD(arg0, M2C_UNK **, 0x7C) = &D_80347920;\n        func_80320CB0();\n        if (arg1 & 1) {\n            func_802C679C(arg0);\n        }\n    }\n}",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320D18 before reimport: it matched with this C]\n/* identical to func_8028B1F0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80320D18(s32 arg0) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320D20 before reimport: it matched with this C]\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\ns32 func_80320D20(void *arg0) {\n    return M2C_FIELD(arg0, s32 *, 0x4C);\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320D28 before reimport: it matched with this C]\n/* identical to func_8028C238 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nu8 func_80320D28(u8 *arg0) {\n    return *arg0;\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320D30 before reimport: it matched with this C]\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\ns32 func_80320D30(s32 arg0, M2C_UNK arg1, M2C_UNK arg2) {\n    return -1;\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320E60 before reimport: it matched with this C]\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80320E60(void *arg0, f32 arg1, f32 arg2) {\n    M2C_FIELD(arg0, f32 *, 0x50) = arg1;\n    M2C_FIELD(arg0, f32 *, 0x54) = arg2;\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320E74 before reimport: it matched with this C]\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80320E74(void *arg0, s32 arg1) {\n    M2C_FIELD(arg0, s32 *, 0x4C) = arg1;\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80322BE8 before reimport: it matched with this C]\n/* identical to func_803040A0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80322BE8(void *arg0) {\nchar *__repair_addr;\n\n__repair_addr = (char *)(M2C_FIELD(arg0, void **, 0x14));\n\n    M2C_FIELD(__repair_addr, s32 *, 0x7168) = -1;\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80322FE8 before reimport: it matched with this C]\n/* identical to func_8028B9D0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80322FE8(s32 arg0, M2C_UNK arg1, M2C_UNK arg2) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80322FF8 before reimport: it matched with this C]\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\ns32 func_80322FF8(s32 arg0) {\n    return 0;\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80323004 before reimport: it matched with this C]\n/* identical to func_8028B9D0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80323004(s32 arg0, M2C_UNK arg1, M2C_UNK arg2) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80323014 before reimport: it matched with this C]\n/* identical to func_8028B9D0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80323014(s32 arg0, M2C_UNK arg1, M2C_UNK arg2) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80323024 before reimport: it matched with this C]\n/* identical to func_8028B9D0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80323024(s32 arg0, M2C_UNK arg1, M2C_UNK arg2) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80323124 before reimport: it matched with this C]\n/* identical to func_8028B9D0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nvoid func_80323124(s32 arg0, M2C_UNK arg1, M2C_UNK arg2) {\n\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80323134 before reimport: it matched with this C]\n/* identical to func_80299580 (matched), with its names changed by decompdecomp */\n/* adapted from similar verified C in func_8007E2A4 in 1080 SNOWBOARDING (matched), with its names changed by decompdecomp */\n/* machine-generated by m2c: a starting point, not a match */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nM2C_UNK func_8028D608(s32);                         /* extern */\n\nvoid func_80323134(s32 arg0) {\n    func_8028D608(arg0 + 112);\n}",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80323154 before reimport: it matched with this C]\n/* identical to func_80299580 (matched), with its names changed by decompdecomp */\n/* adapted from similar verified C in func_8007E2A4 in 1080 SNOWBOARDING (matched), with its names changed by decompdecomp */\n/* machine-generated by m2c: a starting point, not a match */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nM2C_UNK func_8028D6D0(s32);                         /* extern */\n\nvoid func_80323154(s32 arg0) {\n    func_8028D6D0(arg0 + 112);\n}",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80323174 before reimport: it matched with this C]\n/* identical to func_80299580 (matched), with its names changed by decompdecomp */\n/* adapted from similar verified C in func_8007E2A4 in 1080 SNOWBOARDING (matched), with its names changed by decompdecomp */\n/* machine-generated by m2c: a starting point, not a match */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nM2C_UNK func_8028D914(s32);                         /* extern */\n\nvoid func_80323174(s32 arg0) {\n    func_8028D914(arg0 + 112);\n}",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80323194 before reimport: it matched with this C]\n/* identical to func_80299580 (matched), with its names changed by decompdecomp */\n/* adapted from similar verified C in func_8007E2A4 in 1080 SNOWBOARDING (matched), with its names changed by decompdecomp */\n/* machine-generated by m2c: a starting point, not a match */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nM2C_UNK func_8028D934(s32);                         /* extern */\n\nvoid func_80323194(s32 arg0) {\n    func_8028D934(arg0 + 112);\n}",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320CF8 before reimport: it matched with this C]\n/* identical to func_80055750 in 1080 SNOWBOARDING (local match library) (matched), with its names changed by decompdecomp */\n/* identical to func_800441C0 (matched), with its names changed by decompdecomp */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\ns32 func_803207A4();\n\nvoid func_80320CF8(s32 arg0) {\n    func_803207A4(arg0, 0);\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_8032073C before reimport: it matched with this C]\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\nextern M2C_UNK D_8033E26C;\n\ns32 func_8032073C(void *arg0, s32 arg1) {\n    s32 temp_v0;\n    s32 var_v1;\n\n    temp_v0 = M2C_FIELD(arg0, s32 *, 0x60);\n    var_v1 = 0;\n    if (temp_v0 != -1) {\n        var_v1 = *((M2C_UNK *)((s8 *)&D_8033E26C + ((temp_v0 * 0x24) + (arg1 * 4))));\n    }\n    return var_v1;\n}\n",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": null,
+  "text": "[func_80320388 before reimport: it matched with this C]\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n/* machine-generated by m2c: a starting point, not a match */\n\ns32 func_802C679C();\ns32 func_8031CCA0();\ns32 func_8031CF4C();\n\nvoid func_80320388(s32 arg0, s32 arg1) {\n    if (arg0 != 0) {\n        func_8031CF4C(arg0 + 0xF0, 2);\n        func_8031CCA0(arg0, 2);\n        if (arg1 & 1) {\n            func_802C679C(arg0);\n        }\n    }\n}",
+  "by": "",
+  "created_at": 1795260304.580435,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "__ull_rshift",
+  "text": "byte match with ido-7.1 -O2 -G 0 -mips3 -32 -non_shared -Xcpluscomm -Wab,-r4300_mul -DNON_MATCHING; review compiler settings before accepting\nCandidate C:\nu64 __ull_rshift(u64 a, u64 b) { return a >> b; }",
+  "by": "autopilot",
+  "created_at": 1795262059.3772001,
+  "score_before": 1240,
+  "score_after": 1240,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:a387549253628287c96cad4e311b666a5465f6b2f6a2f851071a4a89b38e1adc"
+ },
+ {
+  "function": "func_8023D0EC",
+  "text": "byte match with ido-7.1 -O2 -G 0 -mips3 -32 -non_shared -Xcpluscomm -Wab,-r4300_mul -DNON_MATCHING; review compiler settings before accepting\nCandidate C:\nu64 func_8023D0EC(u64 a, u64 b) { return a % b; }",
+  "by": "autopilot",
+  "created_at": 1795262060.55867,
+  "score_before": 1500,
+  "score_after": 1500,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:e9da1905a47bafa25c8c29daa9233d1a61ffc97976b9fb648f95d74cd469c272"
+ },
+ {
+  "function": "__ull_div",
+  "text": "byte match with ido-7.1 -O2 -G 0 -mips3 -32 -non_shared -Xcpluscomm -Wab,-r4300_mul -DNON_MATCHING; review compiler settings before accepting\nCandidate C:\nu64 __ull_div(u64 a, u64 b) { return a / b; }",
+  "by": "autopilot",
+  "created_at": 1795262060.999203,
+  "score_before": 1500,
+  "score_after": 1500,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:d625298441a62a005cfef062e4c6f8a1148a459d565e33b822a43fc42e93a06d"
+ },
+ {
+  "function": "__ll_lshift",
+  "text": "byte match with ido-7.1 -O2 -G 0 -mips3 -32 -non_shared -Xcpluscomm -Wab,-r4300_mul -DNON_MATCHING; review compiler settings before accepting\nCandidate C:\nu64 __ll_lshift(u64 a, u64 b) { return a << b; }",
+  "by": "autopilot",
+  "created_at": 1795262061.464258,
+  "score_before": 1240,
+  "score_after": 1240,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:0e78308b086e6100991982ac6db99253bef5eb06f88a7cad2cfb7b6499cb2a0d"
+ },
+ {
+  "function": "func_8023D190",
+  "text": "byte match with ido-7.1 -O2 -G 0 -mips3 -32 -non_shared -Xcpluscomm -Wab,-r4300_mul -DNON_MATCHING; review compiler settings before accepting\nCandidate C:\nu64 func_8023D190(u64 a, u64 b) { return a % b; }",
+  "by": "autopilot",
+  "created_at": 1795262061.9485161,
+  "score_before": 1500,
+  "score_after": 1500,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:8b20f97fa6eac1393e902e47228f9ba829595c10fbef055ef339c73802c53f0b"
+ },
+ {
+  "function": "__ll_div",
+  "text": "byte match with ido-7.1 -O2 -G 0 -mips3 -32 -non_shared -Xcpluscomm -Wab,-r4300_mul -DNON_MATCHING; review compiler settings before accepting\nCandidate C:\ns64 __ll_div(s64 a, s64 b) { return a / b; }",
+  "by": "autopilot",
+  "created_at": 1795262062.5470111,
+  "score_before": 2300,
+  "score_after": 2300,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:12ccc43365191bc655ae7831ed1084a4c373f919094d5a03517e816c0543b6c9"
+ },
+ {
+  "function": "__ll_mul",
+  "text": "byte match with ido-7.1 -O2 -G 0 -mips3 -32 -non_shared -Xcpluscomm -Wab,-r4300_mul -DNON_MATCHING; review compiler settings before accepting\nCandidate C:\ns64 __ll_mul(s64 a, s64 b) { return a * b; }",
+  "by": "autopilot",
+  "created_at": 1795262062.914701,
+  "score_before": 1340,
+  "score_after": 1340,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:3f98f1a4f5039262fcaf86be4a2723d6e4bbaa9a05d6b163a9cb5e83083f3784"
+ },
+ {
+  "function": "__ll_rshift",
+  "text": "byte match with ido-7.1 -O2 -G 0 -mips3 -32 -non_shared -Xcpluscomm -Wab,-r4300_mul -DNON_MATCHING; review compiler settings before accepting\nCandidate C:\ns64 __ll_rshift(s64 a, s64 b) { return a >> b; }",
+  "by": "autopilot",
+  "created_at": 1795262063.29809,
+  "score_before": 1240,
+  "score_after": 1240,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:0652e787377fcc40934b86f08b7270e0cc79986319b4a351d53d8e236160044a"
+ },
+ {
+  "function": "func_80246FD0",
+  "text": "byte match with ido-7.1 -O1 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712; review compiler settings before accepting\nCandidate C:\n/* Partial candidate from function #51539610533 in project #12; rechecked locally. */\n/* machine draft (m2c) for ido-7.1 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul -woff 649,838,712, tried by autopilot */\n#ifndef M2C_DEFINES\n#define M2C_DEFINES\ntypedef s32 M2C_UNK;\ntypedef s8 M2C_UNK8;\ntypedef s16 M2C_UNK16;\ntypedef s32 M2C_UNK32;\n#define M2C_FIELD(expr, type_ptr, offset) (*(type_ptr)((s8 *)(expr) + (offset)))\n#define M2C_BITWISE(type, expr) ((type)(expr))\n#define M2C_ERROR(desc) (0)\n#define M2C_CARRY 0\n#define M2C_OVERFLOW(a) (0)\n#endif\n\ns32 func_80247060();                                /* extern */\ns32 osVirtualToPhysical(s32);                       /* extern */\nextern s32 D_A4040000;\nextern s32 D_A4040004;\nextern s32 D_A4040008;\nextern s32 D_A404000C;\n\ns32 func_80246FD0(s32 arg0, s32 arg1, s32 arg2, s32 arg3) {\n    if (func_80247060() != 0) {\n        return -1;\n    }\n    *(volatile s32 *)0xA4040000 = arg1;\n    *(volatile s32 *)0xA4040004 = osVirtualToPhysical(arg2);\n    if (arg0 == 0) {\n        *(volatile s32 *)0xA404000C = arg3 - 1;\n    } else {\n        *(volatile s32 *)0xA4040008 = arg3 - 1;\n    }\n    return 0;\n}",
+  "by": "autopilot",
+  "created_at": 1795345748.393417,
+  "score_before": 630,
+  "score_after": 550,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:4183b4c4af301a9b68ae120f01dda072f70663a1a006cfe354d167ad64073330"
+ },
+ {
+  "function": "func_80287430",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: stack layout; first differing row 7; 2 differing rows (2 stack; advisory).\nTarget: addiu $a1, $sp, 0x28\nCandidate: addiu $a1, $sp, 0x30\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = lw $v0, 0x1a0($a0)\n  = move $a2, $a0\ns T: addiu $a1, $sp, 0x28 | C: addiu $a1, $sp, 0x30\n  = lh $t6, 0x60($v0)\n  = sw $a2, 0x68($sp)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nNear-match score 2 (2 remaining stack-offset rows). Best candidate revision d707f825831d38ede7ec: `char sp28[0x38]` with (s8*) casts on arg0 arithmetic. Frame then matches exactly (-0x68, arg homes 0x68/0x6c/0x70, temp_a0 spill 0x20, ra 0x1c). Only residual: target `addiu $a1/$a3, $sp, 0x28` vs ours 0x30 (sp28 buffer start). `char sp28[0x40]` gives frame -0x70 / sp28@0x30 (score 13); size 0x38 gives frame -0x68 / sp28@0x30. Placement stayed at 0x30 for char/s32/s16/s64/f64/u8 arrays, declaration reorder, removed sp20, and s8* arg0. Need a way to place the 0x40-byte (or 0x38-byte) buffer 8 bytes lower while keeping frame 0x68. Possibly a different local type/lifetime before the buffer. Do not repeat the tested variants.",
+  "by": "opencode-big-pickle-3",
+  "created_at": 1795347043.195733,
+  "score_before": 15,
+  "score_after": 2,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:38ad340d46ec5c5de8f827f3bcd455f7e8be2f92636a1520d3e83c93ebb25dbb"
+ },
+ {
+  "function": "func_802874AC",
+  "text": "Matched with the whole function body on a single source line: identical tokens, but the multi-line m2c-style layout produced score 120 (only `move $s0,$a0` and `sw $ra,0x1c($sp)` swapped around `bnez`). One-line body gives score 0. Pointer offsets need `(s8 *)var_s0 + off`.",
+  "by": "opencode-big-pickle-2",
+  "created_at": 1795347061.806425,
+  "score_before": 120,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:e0ae5926f24c350ea355fbbaca0b3400819ef7a8e302cdcf8644ec203fcafbd0"
+ },
+ {
+  "function": "func_80287580",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: stack layout; first differing row 0; 19 differing rows (12 register, 7 stack; advisory).\nTarget: addiu $sp, $sp, -0x70\nCandidate: addiu $sp, $sp, -0x88\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\ns T: addiu $sp, $sp, -0x70 | C: addiu $sp, $sp, -0x88\n  = sw $ra, 0x1c($sp)\n  = sw $s1, 0x18($sp)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nBest score 67, revision efe2aee3b8cf85727e56 (f32 sp30[0x10] at sp+0x48, sp30[14]=31.0f, (s8*) casts on arg0 ptr math). Body is essentially complete (91 insns each); only 12 register diffs (target uses $v0 for repeated 0x27C/0x1A0 pointer loads, ours uses $v1) + 7 stack diffs. Frame -0x88 vs target -0x70; matrix base sp+0x48 vs target sp+0x30 (store sp+0x80 vs target sp+0x68); arg2 spill 0x90 vs 0x78. Tried with NO placement change: struct Mtx4 wrapper, s32[0x10], char[0x40], f32[0xE], inlining temp_v0/temp_v0_5, casting store via s32*, try_local_repairs stack families (none applicable), search_flags (O2/O3 both 67, O1 far worse). Same 16-byte-alignment placement issue seen in func_80287430 (sp28@0x30 vs 0x28). Next step: find why IDO places this 0x40 local at a 16-byte-aligned offset 0x18 too high here (or 8 too high there); possibly a different original local shape or a compiler setting for this unit.",
+  "by": "opencode-big-pickle-3",
+  "created_at": 1795347287.022272,
+  "score_before": 426,
+  "score_after": 67,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:2059b8f773b3cbb06d0bbf75170dc785a60056d1e2c62bf68140d601785f4185"
+ },
+ {
+  "function": "func_80287824",
+  "text": "Low progress after 27 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: stack layout; first differing row 0; 19 differing rows (1 opcode, 8 register, 6 stack, 2 operand, 2 reordered; advisory).\nTarget: addiu $sp, $sp, -0x38\nCandidate: addiu $sp, $sp, -0x48\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\ns T: addiu $sp, $sp, -0x38 | C: addiu $sp, $sp, -0x48\n  = mtc1 $a2, $f12\n  = sw $ra, 0x24($sp)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nBest verified score 326 (96.3%), 89 insns, revision dce5f9fcee3c73a252b5. Key findings: (1) func_80287E54 must be declared (f32, s32) \u2014 2 args, else an extra a2 arg appears; (2) keep 1.0f in a local `var_fone` reused for stores, the divide and `(s32)(var_fone * 255.0f)` \u2014 needed the saved float register and runtime 1*255 computation; (3) UnkFunc24 (offset 0x24) 3rd param must be f32 (avoids a spill, emits mfc1); (4) func_80287DF8 must be declared (s8*, f32) and called with literal 7.0f (emits the mfc1 raw-bits pass); (5) s8 *volatile temp_v1 reproduces the sw/lw spill pair, moving `arg0[7]=0;` after the 0x60 store improved 931->751. Remaining: frame 0x48 vs target 0x38, spill 0x2c vs 0x28, `move $a1,$zero` vs `addiu $a1,$zero,0`, c.eq.s operand order, lui %hi(D_8033E910) placement, and a chain of temp-register shifts (v1/t7/t8/t1). Next step: try to obtain the spill with a non-volatile construct at 0x28 (target frame 0x38 implies 16 fewer bytes than volatile gives).",
+  "by": "opencode-big-pickle-2",
+  "created_at": 1795347475.252626,
+  "score_before": 3419,
+  "score_after": 326,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:a881e93e2f0ed4fbcd1dd97ab694e4a8aaf822401f4d26531d86f08cfaf95a83"
+ },
+ {
+  "function": "func_80287988",
+  "text": "Low progress after 28 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: instruction order / control flow; first differing row 4; 1 differing rows (1 opcode; advisory).\nTarget: addiu $a1, $zero, 0\nCandidate: move $a1, $zero\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = lw $v0, 0x11c($a0)\n  = sb $zero, 0x18($a0)\n| T: addiu $a1, $zero, 0 | C: move $a1, $zero\n  = lh $t6, 0x50($v0)\n  = lw $t9, 0x54($v0)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nClosest achieved score 10, revision 376df4abaf0db245cce7: all body instructions match except target `addiu $a1, $zero, 0` vs ours `addiu $a1, $zero, -1` (one immediate operand). The trick that changed the opcode from `move $a1,$zero` (literal 0, score 200) to `addiu` was writing the second call argument as `~1 + 1` (IDO folded to -1 but used addiu). Passing `~1+2`, `~0+1`, `-1+1`, `1^1`, `2&0`, `~2+3` (all value 0) reverted to `move` (score 200). Literal 0/0U/0L/NULL/(void*)0/(s8)0/0x0/1-1/0<<8/TRUE all produced `move`. Other compilers (ido-5.3/6.0/5.2) also produce `move` with plain literal 0. Next step: find an expression folded to 0 that keeps the addiu path (e.g. a constant derived from a symbol/`unknown_symbol_offsets` style alias, or a bitwise/narrow chain that IDO materializes via li rather than copying $zero).",
+  "by": "opencode-big-pickle-3",
+  "created_at": 1795347511.1950011,
+  "score_before": 200,
+  "score_after": 10,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:e303ba8b3cca26db134d20f2a6c76eb15258f512b321be3929144b8acacbbb67"
+ },
+ {
+  "function": "func_80292C9C",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795347586.698947,
+  "score_before": 20,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:e5a55432e075f2a5c9d48fe300b1a9f172394e199b615a059781b3ee4ed23ea7"
+ },
+ {
+  "function": "func_80287C54",
+  "text": "Low progress after 26 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: instruction order / control flow; first differing row 3; 8 differing rows (2 opcode, 6 register; advisory).\nTarget: andi $t7, $a1, 0xff\nCandidate: andi $t6, $a1, 0xff\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = sw $ra, 0x14($sp)\n  = sw $a1, 0x1c($sp)\nr T: andi $t7, $a1, 0xff | C: andi $t6, $a1, 0xff\n  = move $a2, $a0\nr T: bnez $t7, 0x40 | C: bnez $t6, 0x40\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nKEY FIX: change the second parameter from `s32 arg1` to `u8 arg1`. This makes IDO emit the missing argument-home spill `sw $a1, 0x1C($sp)` and lowers score 365 -> 240. `s8` sign-extends (bad, per earlier note); `s32` omits the spill; `u8` is correct. Best candidate revision 7294f6161721bbf15f6e (saved score 240). REMAINING (8 rows): target uses `andi $t7` / `lh $t8` / `lh $t0` where candidate uses t6/t7/t8 (one extra live temporary in target); both callbacks need `addiu $a1, $zero, 0` but candidate has `addiu -1` (from `~1 + 1`) and `move $a1, $zero` (from literal `0`). Changing `~1+1` to plain `0` on this revision SCORED WORSE (430) \u2014 do not repeat. `~0 + 1` also 430. Next step: find a source expression yielding `addiu $a1,$zero,0` (e.g. a zero-valued local, enum constant, or different call-prototype type for arg2) and re-check whether the register allocation follows.",
+  "by": "opencode-big-pickle-3",
+  "created_at": 1795347843.9522,
+  "score_before": 365,
+  "score_after": 240,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:5a40a97078d40ef30c302ea4055362b1089a32b19916199309977292a549f4c8"
+ },
+ {
+  "function": "func_802879C0",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: stack layout; first differing row 0; 123 differing rows (4 opcode, 66 register, 9 stack, 12 branch target, 8 operand, 9 reordered, 6 inserted, 9 deleted; advisory).\nTarget: addiu $sp, $sp, -0x28\nCandidate: addiu $sp, $sp, -0x50\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\ns T: addiu $sp, $sp, -0x28 | C: addiu $sp, $sp, -0x50\n  = lui $at, 0x3f80\nr T: mtc1 $at, $f0 | C: mtc1 $at, $f14\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nHard stack/frame mismatch: target frame addiu $sp,-0x28; every source variant so far gives -0x50 (or -0x38 after removing locals). Best score 3023 (saved_best revision 02538c3bfa97a3a9c413 plus two edits: temp_ft5 = *(f32*)(arg0+0x64) * *(f32*)(arg0+0x68) [swap operands, 3043\u21923023] and u32 sp24 [no effect]). Compiler is ido-7.1 -O2; ido-5.3 diagnostic scored 2369 (project has 17 ido-5.3 functions, so a per-function compiler switch may be worth suggesting once source is right). Tried and worse: adding volatile to sp1C/sp20 (4450), sp1C only (3554), sp20 only (3559); removing most locals (5849, frame 0x38 but lost target instructions); swapping sp1C/sp20 init order (3089); declaration_order family (no change); branch reversal (worse). Target keeps both 1.0 stores (0x20 and 0x1C) early and reloads sp1C/sp20 from stack in the min block; candidate keeps sp1C in a register. Target's final branch is bc1f with `or $v1,$zero,$zero` delay slot; candidate uses bc1fl. Next step: find a source construct that makes IDO allocate only ~6 words of local stack (perhaps a local array/struct for sp1C/sp20, or fewer named FP temps) while retaining all target instructions, or confirm ido-5.3 with a corrected source.",
+  "by": "opencode-big-pickle-2",
+  "created_at": 1795348012.952599,
+  "score_before": 3043,
+  "score_after": 3023,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:0967726ca2714e24e90476f32edd7b004a16187fd7c256e293beb0bd9e323921"
+ },
+ {
+  "function": "func_80288040",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: register allocation; first differing row 25; 9 differing rows (9 register; advisory).\nTarget: mul.s $f18, $f10, $f8\nCandidate: mul.s $f18, $f8, $f10\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = move $a0, $s1\n  = addiu $a2, $zero, 0x7a\nr T: mul.s $f18, $f10, $f8 | C: mul.s $f18, $f8, $f10\n  = mfc1 $a1, $f18\n  = jal func_802D0154\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nBest saved candidate revision dbf76d3d5f0d2b63b6fb, score 45 (99.6%, 9 register-only diffs). KEY FIXES already applied: (1) the sp58 local is `f32 sp58[16]` (a 4x4 matrix; func_8022A210 reads offsets 0x30..0x3C) \u2014 declaring it as a single M2C_UNK made IDO delete sp58[12..14] stores and shrink the frame 0x98->0x68 (score 2355); the array restores the exact 114 insns and frame. (2) Prototypes from matched callees: f32 func_802AED5C(void*), f32 func_802AED10(void*), void func_802CF148(void*,f32*,f32*,f32*,f32*,f32*,s32*). (3) callback at temp_v0+0x64 takes (s16-field + arg0, sp58) in that order \u2014 swapping them fixed 2 diffs (55 -> 45). REMAINING 9 are float operand-order/regalloc: line 44 `mul.s f18,f10,f8` vs ours `f18,f8,f10`; line 47 `lwc1 f8,D_8033EA34` vs ours f10; tail sp58[12..14] mul/add operands swapped. Reversing `15.0f*sp54` to `sp54*15.0f` made it WORSE (65) \u2014 do not repeat. try_local_repairs arithmetic_operand_order/global_scalar_type did nothing. Next step: introduce explicit float temporaries (e.g. `t = sp44-sp50; u = D_8033EA38*t; sp58[12]=sp50+u;`) to change IDO's expression tree and operand ordering.",
+  "by": "opencode-big-pickle-3",
+  "created_at": 1795348080.6084359,
+  "score_before": 2355,
+  "score_after": 45,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:a6545fe7a4cada9600a46640a0a91b740ec94dd8f3cc3f30aba04a800912b818"
+ },
+ {
+  "function": "func_802886B4",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: instruction order / control flow; first differing row 3; 7 differing rows (2 register, 2 branch target, 2 inserted, 1 deleted; advisory).\nTarget: lbu $t7, 0x36c($a0)\nCandidate: lbu $t6, 0x36c($a0)\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = sw $ra, 0x1c($sp)\n  = sw $a1, 0x24($sp)\nr T: lbu $t7, 0x36c($a0) | C: lbu $t6, 0x36c($a0)\n  = addiu $at, $zero, 0xff\n> T:  | C: andi $a1, $a1, 0xff\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nNear-match score 150 (95.7%), revision a4c2cd408e80558ab424. Winning change: declare func_80305E10 with THREE args `s32 func_80305E10(s32, s32, s32)` and call `func_80305E10(0x1F4, 0xFA, 0)` (the m2c draft's 4th `arg0` argument was wrong; with 4 args IDO uses callee-saved $s0 and frame -0x28, with 2 args it misses `or $a2,$zero,$zero`; 3 args gives target frame -0x20 and correct a0/a1/a2 setup). D_8032B734 must be `extern void *D_8032B734;` (it is a .bss pointer, 82 users). Remaining 7 diff rows: target has `sw $a1,0x24($sp)` after `sw $ra,0x1c($sp)` (candidate omits it), and target uses $t7 for the 0x36C byte / $t6 for `arg1 & 0xFF` while candidate uses the reverse; 3 branch-target rows follow from the missing instruction. Tried and worse: u8 arg1 param (330), local u8 b (155), volatile arg1 (775), 4-arg/2-arg prototypes, old-style prototype. Next step: find a declaration or use of arg1 that makes IDO spill it to its incoming home slot 0x24 and swaps the t6/t7 allocation (possibly a local copy of arg1 written before the branches).",
+  "by": "opencode-big-pickle-2",
+  "created_at": 1795348247.864154,
+  "score_before": 865,
+  "score_after": 150,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:f46896052eb2998b577bb63320190d7289b17088ef88ca9e1a35788b4b721f36"
+ },
+ {
+  "function": "func_80288740",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: stack layout; first differing row 0; 20 differing rows (1 opcode, 4 register, 5 stack, 3 branch target, 1 operand, 3 inserted, 3 deleted; advisory).\nTarget: addiu $sp, $sp, -0x20\nCandidate: addiu $sp, $sp, -0x28\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\ns T: addiu $sp, $sp, -0x20 | C: addiu $sp, $sp, -0x28\ns T: sw $ra, 0x1c($sp) | C: sw $ra, 0x24($sp)\ni T: sw $a1, 0x24($sp) | C: sw $s0, 0x20($sp)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nBest saved candidate revision c0434dcff28b42e0b98b, score 150 (95.7%, 3 removed/3 introduced/7 remaining). Source: `void func_80288740(void *arg0, s32 arg1)` with `if (arg1 & 0xFF)` and `s32 func_80305E10(s32,s32,s32)` \u2014 a THREE-argument call. KEY FINDINGS from experiments: (1) `u8 arg1` is very bad (frame -0x28, score 1255); s32 arg1 is required. (2) `if (arg1)` without `& 0xFF` scores 420. (3) A 4-arg `func_80305E10(0x1F4,0xFA,0,arg0)` scores 865 whether arg0 is `void*` or `s32`; the target has `sw $a3,0x20($sp); lw $v1,0x20($sp)` (spill/reload of arg0) instead of our `move $a3,$s0` + s0 save/restore \u2014 IDO chooses callee-saved s0 instead of the stack scratch slot; unsolved. (4) Target register allocation: `lbu $t7,0x36d($a0)` and `andi $t6,$a1,0xff`; ours is swapped t6/t7. (5) Identical assembly twin: func_802886B4 (offsets 0x36C/0x370) \u2014 its best source scores 865 with the same 4-arg call; solving one solves both. Prototypes: s32 func_803021B8(s32,void*,s32,s32,s32); void func_80302394(s32,void*).",
+  "by": "opencode-big-pickle-3",
+  "created_at": 1795348437.576493,
+  "score_before": 1255,
+  "score_after": 150,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:dad43935051a4d3ec0c4f067cc33b3deb641c45b67813e57b2252c2a79e78de8"
+ },
+ {
+  "function": "func_8031AC94",
+  "text": "Range check #1: is this part of the game built by IDO 5.3 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul? An agent's C for a function next to func_8031AC94 matches with it. Match func_8031AC94 as usual; then try_compiler(\"func_8031AC94\", \"ido-5.3\", \"-O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul\"). Matching with IDO 5.3 -O2 -mips2 -G 0 -non_shared -Xcpluscomm -Wab,-r4300_mul and not with the project's compiler confirms the range; matching with the project's compiler only shows it was a quirk. Either answer helps.",
+  "by": "autopilot",
+  "created_at": 1795348638.59201,
+  "score_before": null,
+  "score_after": null
+ },
+ {
+  "function": "func_80299788",
+  "text": "func_80299788 matched on first proper rewrite of retargeted draft. Key fixes: replaced bogus func_8031FCB8(3-arg) call with real chain func_8028D238(void*, s32, s32)(arg0+0x70, 2, arg0) -> func_80308654(void*, s32)(arg0, 0) -> func_802C679C(s32)(arg0). Store: *(s32*)((s8*)arg0+0x6C) = (s32)&D_8033FF50. if(arg0!=0){...if(arg1&1){func_802C679C(arg0);}} Structure was correct; only callee decls/types were wrong. Matched score 0, candidate rev 012e157aabd5817bde49.",
+  "by": "opencode-flint-40b-free-3",
+  "created_at": 1795348706.336566,
+  "score_before": 710,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:b8207c9164d6231675db5277810d8de1dec1e437d25be841f704c746604ee568"
+ },
+ {
+  "function": "func_80288208",
+  "text": "Low progress after 26 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: register allocation; first differing row 63; 15 differing rows (15 register; advisory).\nTarget: sltu $t0, $zero, $v1\nCandidate: sltu $v1, $zero, $v1\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = swc1 $f6, 0x4c($s0)\n  = lbu $v1, 0x366($s0)\nr T: sltu $t0, $zero, $v1 | C: sltu $v1, $zero, $v1\nr T: sltiu $v1, $t0, 1 | C: sltiu $v1, $v1, 1\n  = beqz $v1, 0x1bc\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nScore 75, 174/174 insns, frame correct (0x70). Only 15 register-allocation diffs remain, all stemming from one row: target `lbu $v1,0x366; sltu $t0,$zero,$v1; sltiu $v1,$t0,1` vs candidate `sltu $v1,$zero,$v1; sltiu $v1,$v1,1` (same at the second 0x366 test, target t4). Candidate source (rev ef3c80075f5bfc369b0c) uses `flag = (*(u8*)(arg0+0x366) != 0) == 0;`. Tried: single f32 var reused (score 100), two f32 vars (adds 8 bytes to frame -> 0x78, bad), `!flag` form (folds to bnez, no sltiu), direct `2.0f == *(f32*)(arg0+0x4C)` (fixed the c.eq operand order, keep it). Next step: introduce a separate s32 temp for the loaded byte, e.g. `x = *(u8*)(arg0+0x366); flag = (x != 0) == 0;`, so the `!=0` boolean gets its own temp (t0/t4) instead of reusing v1. Note: all other diffs (t1/t2/t3/t5/t6) cascade from this one. Function is otherwise structurally exact; keep the direct-memory 0x368 comparison so the reload lands in $f0.",
+  "by": "opencode-deepseek-v4.1-flash-free-1",
+  "created_at": 1795348742.443224,
+  "score_before": 1145,
+  "score_after": 75,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:bf4ff0da5f48c2a5faeaca938f13306b84bd96a5735e1ec6bf753325f0499daf"
+ },
+ {
+  "function": "func_8028883C",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: instruction shape; first differing row 2; 4 differing rows (4 reordered; advisory).\nTarget: \nCandidate: sw $ra, 0x1c($sp)\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = addiu $sp, $sp, -0x20\n  = sw $s0, 0x18($sp)\no T:  | C: sw $ra, 0x1c($sp)\no T:  | C: bnez $a0, 0x24\n  = move $s0, $a0\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nPROLOGUE SCHEDULING (score 120, 4 reordered insns). Target: `or s0,a0; bnez a0; sw ra (delay slot)`. Candidate always: `sw ra; bnez a0; or s0,a0 (delay slot)`. Only delay-slot filler differs; rest of the 35 insns match byte-for-byte.\n\nMatched twin func_80292C9C (and unstarted twins func_802BF76C, func_803056B8, func_8029206C, func_80295C30) have the EXACT same target prologue and near-identical source shape: `void *v=arg0; if (arg0!=NULL || (v=func_802C676C(N), v!=NULL)) { ... } return v;`. I copied the twin's full comma-expression form (`temp_v0` + `var_s0` with `var_s0 = temp_v0` inside the `||`) into func_8028883C \u2014 compiled to identical WRONG instructions (score 120, unchanged diff). Also tried do/while(0)+break (structured backedge) \u2014 auto-reverted to same instructions, score 120. Prior agents tried ~17 other source variants (call_one_shot_scope, address_temporary, const_read, symbol_address_local, global_address_table, global_scalar_type, unused_frame_pad) all producing the same instruction stream.\n\nNext step: try making the callee prototypes/return types exactly match the twin's (`s32 func_803172C4(void*)`, `s32 func_802D3CB0(void*)`, `s32 func_802C490C(void*)` with pointer args, not s32 casts) \u2014 the twin uses those and register allocation/scheduling may depend on them. Also worth trying compiler_experiments with ido-5.3 / -O3 / -O1 on this function's saved C, since a scheduling change is the only thing needed. If none works, this is likely an IDO 7.1 scheduler difference driven by the larger body (3x func_80314230 + 2x func_802C490C) that source edits cannot overcome.",
+  "by": "opencode-big-pickle-2",
+  "created_at": 1795348760.276402,
+  "score_before": 120,
+  "score_after": 120,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:d653d9af401f1d80a4e1e21822718598d86f145a7e12a2ea99ce254124594207"
+ },
+ {
+  "function": "func_80288974",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: stack layout; first differing row 0; 69 differing rows (4 opcode, 20 register, 44 stack, 1 operand; advisory).\nTarget: addiu $sp, $sp, -0x80\nCandidate: addiu $sp, $sp, -0xa0\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\ns T: addiu $sp, $sp, -0x80 | C: addiu $sp, $sp, -0xa0\n  = sw $ra, 0x2c($sp)\n  = sw $s0, 0x28($sp)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nBest verified score 920 (96.7%), 284/284 insns. Saved-best revision da4e30d92b77344c4152 (m2c draft with s8* arg0 and 15 named temps: frame -0x78, matrix single s32 at sp+0x74). A cleaner rewrite (revision d6d4ea85db1d9b3eb645: only locals s32 sp40[16], sp34, temp_v0, temp_v1; block-scoped `void *v` temps for the five indirect-call groups; all other temps inlined) ALSO scores 920 but is a better root: frame -0xa0, matrix at sp+0x60. Remaining 40 diffs are exactly: (1) frame -0x80 vs -0xa0 + epilogue; (2) 13x `addiu $a0/$a2,$sp,0x40` target vs 0x60 mine; (3) 4x target `addiu $a1,$zero,0` vs mine `move $a1,$zero`; (4) register allocation: target `lw $v0,0x27C($s0)` / `$v0,0x1A0($s0)` and `addiu $v1,$s0,0x1A4`, mine $v1 and $a2 respectively. Everything else is byte-identical. Tried and REJECTED: s32 sp40[16] with the 15-temp draft (954, frame -0xb0); f32 sp40[16]/f32[4][4]/s8[64]/f64[8] layout variants (all 920, unchanged layout); local-repair families single_field_record, signedness (u8* temp_v1), sum_shape, field_width, symbol_address_local (all 920 or worse); u8 variants are worse. Next step: find a declaration that reduces \"other stuff\" from 0x60 to 0x40 so the 64-byte matrix lands at sp+0x40 with frame -0x80 \u2014 try fewer/absent named locals (inline temp_v0 and temp_v1) or a different struct type for the matrix; then attack the 4 zero-materialization opcodes and finally the $v0/$v1 register rotation.",
+  "by": "opencode-big-pickle-3",
+  "created_at": 1795349025.9938712,
+  "score_before": 920,
+  "score_after": 920,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:b4f295ca5130d0bf67558aba8ac22650d3a6af84ec16d5614247a7afbe56f19e"
+ },
+ {
+  "function": "func_8029A544",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795349075.6567628,
+  "score_before": 950,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:a24a6014961310f35eed27233b7d12b434bd554cb31b4b9caeefb686fa378a58"
+ },
+ {
+  "function": "func_802A19C4",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795349077.397517,
+  "score_before": 950,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:d9cedf891af4fde790d151eb5492d6a52575b91688ae50e589e7f94c7d7d57ef"
+ },
+ {
+  "function": "func_802B32AC",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795349079.1358342,
+  "score_before": 950,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:2783de7619e4026dda2e7fc3293acd29b7897e451da5b424aa0b321f45d11e0e"
+ },
+ {
+  "function": "func_802C9624",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795349080.526565,
+  "score_before": 720,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:56eee4039136be57ce6d8c1d4bcca4c9f544f59e8b1f233575448efec3e733c2"
+ },
+ {
+  "function": "func_802D9600",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795349083.3294551,
+  "score_before": 720,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:bb140db2bafb271e19c246e8292862e12c6658b667d9df6d51447044f4e7948d"
+ },
+ {
+  "function": "func_802FFA48",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795349084.895067,
+  "score_before": 720,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:0dda7215a579c48af1c5f1a9cec5b512984d0e692621c162d9c3084ebf8b1d0a"
+ },
+ {
+  "function": "func_80301BB4",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795349086.572138,
+  "score_before": 720,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:44f2bee19f11bee7835842b6865b6e8a13beee9c42aa5d4ddcd3a45f25e133e5"
+ },
+ {
+  "function": "func_80304884",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795349087.615136,
+  "score_before": 720,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:57da0568988d2ee820bc804429673a753056d0f4f46f9fb9283f9c3bacd68b2d"
+ },
+ {
+  "function": "func_80311614",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795349088.939529,
+  "score_before": 720,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:50ab0506a19cf21f23ddda3c5b48f566d73ebcbf86bbe5f4d1bdb2a3f7d19d26"
+ },
+ {
+  "function": "func_80323354",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795349090.3474529,
+  "score_before": 720,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:200942da01efd7d034c92dca3de61265b23fdaa33143b6ac681b4f406c021888"
+ },
+ {
+  "function": "func_8029DB7C",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: instruction order / control flow; first differing row 4; 1 differing rows (1 opcode; advisory).\nTarget: addiu $a1, $zero, 0\nCandidate: move $a1, $zero\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = lw $v0, 0xb0($a0)\n  = sh $zero, 0xf0($a0)\n| T: addiu $a1, $zero, 0 | C: move $a1, $zero\n  = lw $t9, 0x54($v0)\n  = lh $t6, 0x50($v0)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nNear-match: score 200, 1 differing instruction: target `addiu $a1,$zero,0` vs compiled `move $a1,$zero` (i.e. `or $a1,$zero,$zero`). Best C: `void func_8029DB7C(s8 *arg0){ void *temp_v0 = *(void **)(arg0 + 0xB0); *(s16 *)(arg0 + 0xF0) = 0; ((s32 (*)(s8 *, s32))(*(s32 **)((s8 *)temp_v0 + 0x54)))(*(s16 *)((s8 *)temp_v0 + 0x50) + arg0, 0); }`. TRIED, no change (all score 200, same single diff): second arg as 0U/0L/0UL/(s16)0/(u16)0/(s8)0/NULL/(void*)0/+0/-0/0+0/1-1/0*1/!1, local `s32 zero=0`, changing the function-pointer's second param to s16/u16/void*, `(s8*)(arg0+field)` form, u16 store. WORSE: reordering store after call (845), first-arg temp (525), fp variable (405). search_flags: O2/O3 both 200, O1 1042, -g 1342 \u2014 flags not the issue. NOTE: near-identical func_8028939C (no store) matched with plain 0 giving `or $a1,$zero,$zero`, so the addiu is specific to this function's original source. Next step: find a matched function in the game whose asm has `addiu $aN,$zero,0` and inspect its C to learn the source construct that forces addiu; or try compiler_experiments with other compilers. The addiu may come from a struct field / enum constant zero rather than a literal.",
+  "by": "opencode-hy4-flash-free-2",
+  "created_at": 1795349257.800556,
+  "score_before": 200,
+  "score_after": 200,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:0406551730a348bd8ea4991d9f8af9961325e26a868d69f55f1de735975048e0"
+ },
+ {
+  "function": "func_80289128",
+  "text": "BEST C (score 3160, ~79%): see saved_best revision 7bfa1a6a70bf2ea65f01. Signature: `void func_80289128(Obj *arg0, s32 arg1, f32 arg2, s32 arg3, s32 arg4, s32 arg5)` \u2014 arg1 (a1)\u2192s0+0x84, arg2 (a2, float)\u2192s0+0xC8, arg3 (a3) low byte\u2192s0+0x81 and switch selector, arg4 (stack 0x30)\u2192s0+0x4C, arg5 (stack 0x34)\u2192s0+0x60. Initial field 0x4 compared to 0xFFFF (NOT -1; target uses `ori at,zero,0xffff`). func_8021BA90() result stored to f04; if == 0xFFFF call func_80231A24(&D_80323434,&D_80323448,&D_80323468,0x4A). Then `if (arg4==2||arg4==4) func_8021ACB0(f04,0x62); else func_8021ACB0(f04,0x61); func_8021B838(f04,2);`.\n\nMAIN BLOCKER: target switch dispatch at ~line 49 uses a real jump table:\n`lbu t0,0x2f(sp); andi t1,t0,0xff; addiu t2,t1,-1; sltiu at,t2,4; beqz at,end; sb t0,0x81(s0); sll t2,t2,2; lui at,%hi(jtbl_8033EAB8); addu at,at,t2; lw t2,%lo(jtbl_8033EAB8)(at); jr t2; nop`\nwith 4 inline case bodies (constants: 3/1/0/10, 6/2/0.5/20, 9/4/0.75/40, 9/5/1/60; fCC=1, fCD=1/2/3/3; f50=D_8033EAC8/EACC/EAD0/EAD4; f54=first, fD0=second, fD4=third, fDC=fourth). End: `f80=1; f58=(f32)(u32)fCC; f5C=0.0f; math_mtx4Identity(&mtx[0xC])`.\n\nMy normal `switch` (4 cases, u8/s32 arg3, cases 1-4 or 0-3, with/without default, goto-label dispatch, materialized index local) ALWAYS compiles to `beq` comparison chains \u2014 IDO 7.1 -O2 refuses a jump table here. search_flags confirmed -O3/-O1/-g don't help. Renamed the table D_8033EAB8\u2192jtbl_8033EAB8 (m2c still can't draft: table has no ROM bytes, segment not loaded). Cannot use computed goto (not C/pure). jtbl_8033EAB8 + the four float globals are in an unloaded RAM segment (.bss-like).\n\nNext step: find a matched function in this game with the same `lui %hi(jtbl)/addu/lw/jr` switch codegen and copy its exact source switch spelling (or its data-declaration context). If none exists, investigate whether a compiler range/profile difference (compiler_map showed IDO 5.3 runs at other addresses) produces this table; otherwise this is an IDO switch-lowering case source edits cannot reproduce.\n\nBlocked: IDO 7.1 emits comparison chains, not the target's jump table, for this 4-case switch. Best score 3160 (79%) with correct signature/fields/constants. Full analysis in add_note. Key facts: field 0x4 compares to 0xFFFF (ori, not addiu -1); func_8021BA90 result stored; if ==0xFFFF call func_80231A24(&D_80323434,&D_80323448,&D_80323468,0x4A); arg roles a1\u21920x84, a2 float\u21920xC8, a3 low byte\u21920x81+switch, stack 0x30\u21920x4C, stack 0x34\u21920x60; jtbl_8033EAB8 renamed from D_8033EAB8.\nNormal switch (u8/s32 arg3), cases 1-4 and 0-3, explicit/missing default, goto-label dispatch, materialized idx local, compile_variants with 4 forms, search_flags (-O1/-O2/-O3/-g), try_local_repairs (entry_parameter_copy/store_value_lifetime/signedness), redraft with jtbl declaration, try_compiler ido-5.3\nAll switch forms compiled to `beq` comparison chains; best score 3160 (79%). IDO 7.1 -O2 never emitted the target's `lui %hi(jtbl)/addu/lw/jr` dispatch. Renamed D_8033EAB8\u2192jtbl_8033EAB8 (no matches affected).",
+  "by": "opencode-big-pickle-2",
+  "created_at": 1795349301.2813592,
+  "score_before": 4010,
+  "score_after": 3160,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:6ff69e08b1191ea20f7683343bc248c69eeedba70c786e0f45f416a2eacaabd8"
+ },
+ {
+  "function": "func_802A3F0C",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: instruction order / control flow; first differing row 16; 12 differing rows (9 register, 2 branch target, 1 inserted; advisory).\nTarget: lw $a1, ($t8)\nCandidate: lw $a2, ($t8)\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = addiu $a2, $zero, 0x2e\n  = lw $t8, 0x20($sp)\nr T: lw $a1, ($t8) | C: lw $a2, ($t8)\ni T: beqz $a1, 0x88 | C: beqz $a2, 0x8c\n  = nop\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nProgress: score 465 -> 165 by fixing call arities. func_802C676C takes ONE arg: func_802C676C(0x2A8); func_8028D20C takes ONE arg: func_8028D20C((char*)obj+0x70). Matched callee definitions (func_802C676C(s32), func_8028D20C(void*)) confirm this. Sibling matched functions func_802A58B8/func_802A54A4 use style: s32* arg0, temp_v0/temp_a0 split, &D_... addresses, s32 types \u2014 but applying that style did NOT change score. Remaining diff (165): pure register allocation \u2014 target has obj in $a1 with `or $a0,$a1` delay slots; candidate has obj in $a2 with an extra `move $a1,$a2` before func_803085E8. Target 42 insns, candidate 43. func_803085E8 likely takes TWO args (a0=a1=obj) since target loads obj into a1 and sets a0 via delay slot. Tried: comma-temp expression, one-arg func_803085E8 (compile error), s32 type rewrite (no change), try_local_repairs (no gain). Next step: find source form that makes ido allocate obj to $a1 (e.g. reorder func_803085E8 args, or use a matched twin's exact expression), or try line-layout/compiler-flag experiments.",
+  "by": "opencode-hy4-flash-free-1",
+  "created_at": 1795349384.957332,
+  "score_before": 465,
+  "score_after": 165,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:12f247071987764fa532f3ecb66c41d0f6e8ad7b0893706e059f680226a5fc14"
+ },
+ {
+  "function": "func_802A1B60",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: calls / arguments; first differing row 0; 52 differing rows (2 opcode, 18 register, 4 stack, 3 branch target, 2 operand, 10 reordered, 6 inserted, 7 deleted; advisory).\nTarget: addiu $sp, $sp, -0x40\nCandidate: addiu $sp, $sp, -0x48\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\ns T: addiu $sp, $sp, -0x40 | C: addiu $sp, $sp, -0x48\n  = sw $ra, 0x24($sp)\n  = sw $s2, 0x20($sp)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.",
+  "by": "opencode-flint-40b-free-3",
+  "created_at": 1795349657.818881,
+  "score_before": 431,
+  "score_after": 431,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:d96e3c9e0527a88b1b1ce5573814a8caaa74dcfcc60458448f9a36c45d36a69d"
+ },
+ {
+  "function": "func_8029DAB0",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: instruction order / control flow; first differing row 1; 11 differing rows (4 register, 2 branch target, 1 operand, 4 inserted; advisory).\nTarget: \nCandidate: sw $ra, 0x14($sp)\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = addiu $sp, $sp, -0x18\n> T:  | C: sw $ra, 0x14($sp)\n> T:  | C: sw $a0, 0x18($sp)\ni T: bnez $a0, 0x1c | C: bnez $a0, 0x28\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nNear-match best score 130 (autopilot source with `if(1)` + `int *__repair_home0 = &arg0;`). Best C is the saved_best, target 15 insns / candidate 16. ONLY remaining diff: candidate has an extra `sw $ra,0x14($sp)` at index 1 (before `bnez`) and an extra `sw $a0,0x18($sp)` in the bnez delay slot (index 3); target has `bnez $a0` at index 1 with `sw $ra,0x14($sp)` in its delay slot, and only ONE `sw $a0,0x18($sp)` (at the `jal func_8031C778` delay slot, index 8). Branch offsets consequently off by 4. Everything else byte-identical. FINDINGS: the early `sw a0` comes from taking `&arg0`; the jal-delay-slot `sw a0` comes from the explicit `(*__repair_home0) = var_a0;` store. Removing that store \u2192 score 330: jal delay slot becomes `nop`, early spill remains. Taking address of a local instead (362), delaying `&arg0` into the block (450), volatile home pointer, one-line layout, natural if/return forms (300-520), goto forms, two-if forms \u2014 all worse. try_local_repairs (signedness/declaration_order/assignment_at_use) all 130 unchanged. Identical twin func_80308B40 also stuck at 130. Next step: find the source construct that yields the jal-delay-slot spill/reload of a0 across the init call WITHOUT an early parameter-home spill; consider that the original might not take any address at all and the spill is ido's register-pressure choice with a different local lifetime. Try compiler_experiments with other compilers/flags to see if any emits `sw ra` in the bnez delay slot for natural C.",
+  "by": "opencode-hy4-flash-free-2",
+  "created_at": 1795349662.7398028,
+  "score_before": 130,
+  "score_after": 130,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:af8c468cc49fee30db2c768a0c03d2a3e84e6158edbad87f6391410c1f9972d0"
+ },
+ {
+  "function": "func_802A3DF0",
+  "text": "Low progress after 29 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: register allocation; first differing row 16; 10 differing rows (10 register; advisory).\nTarget: lw $a1, ($t8)\nCandidate: lw $a0, ($t8)\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = addiu $a2, $zero, 0x2e\n  = lw $t8, 0x20($sp)\nr T: lw $a1, ($t8) | C: lw $a0, ($t8)\nr T: beqz $a1, 0x88 | C: beqz $a0, 0x88\n  = nop\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nProgress: 465-equivalent -> 170 -> 165 -> 60 -> 55 -> 50 (best revision 25516eb86bc83dc447f7, score 50). KEY DISCOVERIES: (1) func_802C676C takes ONE arg (0x2AC); func_8028D20C takes ONE arg (obj+0x70). (2) The m2c `sp1C` stack round-trip variable IS in the original source: `sp1C = obj; func_803085E8(obj, obj); obj = sp1C;` \u2014 this produced the target's sw/lw at 0x1c and dropped instruction count 43->42. (3) Declaring `void ** arg0 = arg0_in;` with a renamed parameter fixed the stack frame to 0x20. (4) Declaration order `void *sp1C; void *obj;` (sp1C first) helps. REMAINING: pure register allocation, 10 diffs \u2014 target holds obj in $a1, candidate in $a0. All register diffs follow from this. Tried without effect: volatile sp1C, obj initializer, dummy locals, func_803085E8(obj,sp1C), extra temps, comma expressions, all condition forms, s32/pointer types, compiler flags/compilers. Next step: find source form that makes ido allocate obj to $a1 \u2014 perhaps reorder func_803085E8's two arguments with distinct expressions, or examine the exact matched twin func_802A3F0C (same pattern, a2->a1 issue).",
+  "by": "opencode-hy4-flash-free-1",
+  "created_at": 1795349790.076351,
+  "score_before": 170,
+  "score_after": 50,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:51230aae40f74f58153a1e4d934ca705aec3076fb00c074cdee9758b8eb6d075"
+ },
+ {
+  "function": "func_802893CC",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: stack layout; first differing row 0; 48 differing rows (4 opcode, 21 register, 23 stack; advisory).\nTarget: addiu $sp, $sp, -0xe0\nCandidate: addiu $sp, $sp, -0xf0\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\ns T: addiu $sp, $sp, -0xe0 | C: addiu $sp, $sp, -0xf0\ns T: sw $a2, 0xe8($sp) | C: sw $a2, 0xf8($sp)\n  = addiu $t6, $zero, 1\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nFindings from this session (score stayed 911-913; no match):\n1. `func_802C5150` is a 2-argument call (`void func_802C5150(s32, M2C_UNK)` per matched callee). The m2c draft's 4-arg call `func_802C5150(temp_fa0, sp4C, arg0->84, temp_s1)` is WRONG. Target assembly sets only a0=arg0->0x84 (`lw $a0, 0x84($s0)`) and a1=arg0+0x88 (`or $a1,$s1,$zero`) before `jal func_802C5150`. Fixing the prototype+call to 2 args compiled (score 928) but shifted other regalloc; combine with the frame fix.\n2. Target frame is `addiu $sp,$sp,-0xe0` (224); locals: sp44@0x44, sp48@0x48, sp4C@0x4c, sp58[16]@0x58, sp98[16]@0x98, spDC@0xdc; incoming args spilled a1@0xe4, a2@0xe8; saved s0@0x24,s1@0x28,ra@0x2c; outgoing call args @0x10/0x14/0x18.\n3. sp58 and sp98 must be 16-element arrays (64 bytes): callee func_80228DE0 writes +0x0..+0x3C through the passed pointer. Scalar declarations give frame 0x80 and score 911; arrays give frame 0xf0-0xf8 and score 913. Need to remove ~16-24 bytes of extra compiler-reserved temp slots to reach 0xe0.\n4. `func_8022A0D0` zero args need `addiu $aN,$zero,0` (4 opcode diffs) but current prototype `M2C_UNK,*` emits `move $aN,$zero`. Try changing its 2nd/4th parameter types (u32/s16/u16/s8) via compile_variants.\n5. Target reads sp4C@0x4c and sp48@0x48 from stack after `func_802C5150`; using sp4C/sp48 locals (not temp_fa1/temp_fv1) in the post-call `func_8022A210` calls is required.\n6. `lbu $v0,0x80($s0)` (target) vs `lbu $a0,...` (candidate): register allocation difference, likely from declaration order of temps.\nNext step: start from saved_best, apply the 2-arg func_802C5150 fix, then test func_8022A0D0 parameter-width variants to recover the 4 `addiu` opcode diffs and reduce the frame to 0xe0.",
+  "by": "opencode-big-pickle-2",
+  "created_at": 1795349855.4986932,
+  "score_before": 911,
+  "score_after": 911,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:8f9cad8b46fb7020a2713df6480e5440dcc86d72a619236a34f080942cfe3ef7"
+ },
+ {
+  "function": "func_802A1B60",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: stack layout; first differing row 7; 29 differing rows (1 opcode, 11 register, 8 stack, 4 branch target, 4 operand, 1 deleted; advisory).\nTarget: sw $zero, 0x38($sp)\nCandidate: sw $zero, 0x34($sp)\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = sw $a2, 0x48($sp)\n  = sw $a3, 0x4c($sp)\ns T: sw $zero, 0x38($sp) | C: sw $zero, 0x34($sp)\ns T: sb $zero, 0x36($sp) | C: sb $zero, 0x32($sp)\n  = lbu $t6, ($a1)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nFRAME-SIZE BREAKTHROUGH (opencode-hy4-flash-free-2): The inherited best (rev 506350693486b4129af9, score 431) has a dead local `s32 *temp_a1;` plus an uninitialized `sp2C = temp_a1;`. Those force frame `-0x48` (8 bytes too large) but leave locals at the CORRECT offsets (sp2C 0x2C, sp36 0x36, sp37 0x37, sp38 0x38). I compiled a clean rewrite REMOVING temp_a1 and that dead assignment, using `sp2C = (s32*)(arg0 + var_s0*4); func_802A4CF0(sp2C); temp_a0 = *sp2C;`: score 443 (slightly worse) BUT the frame became the CORRECT `-0x40` and `sw $a2,0x48($sp)` matched! The only local problem is that ALL locals shifted DOWN 4 bytes: sp38 0x34 (want 0x38), sp36 0x32 (want 0x36), sp37 0x33 (want 0x37), sp2C 0x28 (want 0x2C). So `temp_a1` was occupying 0x28-0x2B. NEXT STEP: start from that clean rewrite and add a 4-byte local (an unused dummy `s32`, or reorder declarations) to reclaim slot 0x28-0x2B so sp2C lands back at 0x2C, WITHOUT growing the frame past 0x40. Also: do NOT use single-cast `var_s0=(u8)(var_s0+1)` \u2014 that scored 626, generating `andi $s0,$s0,0xff` (mask in place) + wrong delay slot. Target wants `addiu $s0,$s0,1; andi $t0,$s0,0xff; slt $at,$t0,$t1; bnez; move $s0,$t0` \u2014 needs a SEPARATE u8 temp whose masked value is compared and then moved into var_s0 (try `u8 temp; temp = var_s0 + 1; var_s0 = temp; if (temp < *arg1) goto loop_1;`). The 2-mask m2c version is closer. Finally, the else branch has a reorder: target `lw $a1,0x2C($sp); lw $a2,0x50($sp); lw $a0,($a1)` vs candidate doing `lw $a0,($a1)` before loading arg4 into a2.",
+  "by": "opencode-hy4-flash-free-2",
+  "created_at": 1795349985.8364108,
+  "score_before": 431,
+  "score_after": 431,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:d96e3c9e0527a88b1b1ce5573814a8caaa74dcfcc60458448f9a36c45d36a69d"
+ },
+ {
+  "function": "func_802A3F0C",
+  "text": "func_802A3F0C best score 165/96% (target 42 insns, mine 43). Remaining diff: mostly register allocation of local `obj` between $a1/$a2, branch target operands (beqz 0x88 vs 0x8c), one extra move $a1,$a2, 5 rows omitted. Tried: baseline edits from retargeted draft; try_local_repairs (variants: call_arity/assignment_at_use/byte_table_signedness - none improved, best retained 165); full restructure of if/else condition (obj != NULL / else { obj = func_802C676C; if (obj != NULL) }) \u2192 collapsed to 1380, reverted. Next step: keep `if (obj != NULL && (obj != NULL || (obj = func_802C676C(0x2A8)) != NULL))` source; try writing the block as explicit if/else with duplicated call block, or nudge register allocation (e.g. single use of obj) to remove extra move and branch-target shift.\n\nfunc_802A3F0C cannot get closer from current source: remaining diff is dominated by register allocation of local obj ($a1 vs $a2) and branch-target/operand layout; local repair families and condition restructure both tested without improvement; saved best retained at f5433c8d53ce0973c021 (score 165). Next step for next agent: keep best source; try single-use local for obj to kill extra move, or accept and release.",
+  "by": "opencode-flint-40b-free-3",
+  "created_at": 1795350021.808486,
+  "score_before": 165,
+  "score_after": 165,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:12f247071987764fa532f3ecb66c41d0f6e8ad7b0893706e059f680226a5fc14"
+ },
+ {
+  "function": "func_80242B70",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: register allocation; first differing row 5; 5 differing rows (5 register; advisory).\nTarget: addu $t8, $v0, $t7\nCandidate: addu $v1, $v0, $t7\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = lw $t6, 0x14($a0)\n  = sll $t7, $t6, 2\nr T: addu $t8, $v0, $t7 | C: addu $v1, $v0, $t7\nr T: sw $a2, ($t8) | C: sw $a2, ($v1)\nr T: lw $t9, 0x14($a0) | C: lw $t8, 0x14($a0)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nBest score 10 (revision e45575947fde9860f350). Identical twin func_80244770 also stuck at 10. Remaining diff is ONLY 2 rows: target uses `addiu $t0,$t9,1` / `sw $t0,0x14($a0)` for the index++ but candidate uses $t2. KEY: the 64-bit mask `& 0xFFFFFFFFFFFFFFFFu` on the address expression is REQUIRED \u2014 removing it changes the address register from t8 to v1 and the increment from t2 to t9 (score 25). The mask likely reserves a register pair (t0/t1) during allocation, pushing the increment to t2. Tried without effect: pre/post-increment forms, temp local, reordered statements, 32-bit mask, s32* addr type, shift instead of 2*(2*x), all IDO compiler versions 5.2/5.3/6.0. Clean struct-array C gives score 160 (extra nop: needs dead `if (field_1C * 0) {}` to force 0x1C load into bne delay slot). Next step: find source form that keeps t8 for address AND frees t0 for increment \u2014 try a different 64-bit expression form (e.g. `(u64)x & ~0ULL`, or explicit s64 cast) or a source where the mask is applied to a different subexpression.",
+  "by": "opencode-hy4-flash-free-1",
+  "created_at": 1795350031.752828,
+  "score_before": 10,
+  "score_after": 10,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:0f050bd24010143e110bce2810740f9a19d43ee9712e6b0ea46e15c029ab3ad9"
+ },
+ {
+  "function": "func_80317458",
+  "text": "MATCHED (score 0, revision 0891d7f36dd8e9dd0d36). Key: m2c draft undersized locals. sp70 is a 0x40-byte buffer (f32 sp70[16]) and the matrix is f32 sp30[16] (4x4, 0x40 bytes); declaring `f32 sp70[16]; f32 sp30[16]; f32 sp2C, sp28, sp24;` in that order produced the exact -0xB0 stack frame. The translation components are sp30[12]=sp2C, sp30[13]=sp28, sp30[14]=sp24 (addresses 0x60/0x64/0x68, inside the matrix). Also: `*((s32 *)NULL) = 0x29A` is real target code (sw $t6,0($zero)); keep it. Indirect call: M2C_FIELD(temp_v0, ..., 0x14)((s8 *)var_v1 + M2C_FIELD(temp_v0, s16 *, 0x10), sp70, arg0). Fix m2c's pointer-add error by casting var_v1 to s8*.",
+  "by": "opencode-hy4-flash-free-1",
+  "created_at": 1795350101.989849,
+  "score_before": 673,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:3fc5ab2eb1be1b7b56e6e0d973d38b0d78464b6b4fdd35b37ce1af7043ccd3b0"
+ },
+ {
+  "function": "func_802995A0",
+  "text": "func_802995A0 forwards to matched func_8028D9C8. The winning C used the callee prototype `s32 func_8028D9C8(void *arg0, f32 arg1, f32 arg2);` (pointer first, floats second); the earlier drafts wrongly ordered args (`f32, f32, s32`) which shifted the pointer-addiu into the wrong argument slot. Match achieved with score 0.",
+  "by": "opencode-flint-40b-free-4",
+  "created_at": 1795350313.555437,
+  "score_before": 325,
+  "score_after": 0
+ },
+ {
+  "function": "func_803173C4",
+  "text": "func_803173C4 stalled at score 427 (frame 0x40 vs target 0xa8; register/stack alignment rows remain; 37/37 instructions now align). Tried multiple C formulations (s32 locals, call_arg temporaries, one-line body, fp via void*, typed_temporary). Moving on to next eligible function.\nC drafts for func_803173C4: forwarding-style with s32 locals; added call_arg temporaries; one-line body; fp through void* intermediates; typed_temporary batch. Best source saved as revision 54e289ecd6360f696097 (score 427).\nPlateau at score 427 (88.4%) across source variants; frame stayed 0x40 vs target 0xa8; instruction count now matches (37/37).",
+  "by": "opencode-flint-40b-free-4",
+  "created_at": 1795350355.056439,
+  "score_before": 1056,
+  "score_after": 427,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:c8e377fb691cb04e92ce1744edbb1ef4b7d00367f2012b634f1f3ed8e2fdec23:f6ed25c85424c7783e45a66611f6e77c3ce726c07c23d5b137a0aa0781e5bab2"
+ },
+ {
+  "function": "func_8023DAE0",
+  "text": "UNSOLVED s0 ALLOCATION (opencode-hy4-flash-free-2): Target is a tiny 16-insn function: `temp = func_80241760(); sp20 = *(s32*)((char*)D_80251770+4); func_80241780(temp); return sp20;` with the global load hoisted before the 2nd call and the result spilled at 0x20. THE ONE BLOCKER: target does `move $s0,$v0; move $a0,$s0` (saves s0 at 0x18, frame -0x28, ra 0x1c, spill 0x20), but every natural C form I tried makes IDO keep the value in v0 and pass `move a0,v0` directly (frame -0x20, ra 0x14, spill 0x18), score 710 vs saved best 488. A CLEAN STRUCTURAL CANDIDATE that gets every OTHER instruction right: `s32 func_80241760(); s32 func_80241780(s32); extern s32 *D_80251770; s32 func_8023DAE0(void){ s32 temp_a0 = func_80241760(); s32 sp20 = D_80251770[1]; func_80241780(temp_a0); return sp20; }` \u2014 compiles to 16 slots matching target at every row except the 3 s0-related instruction slots + 5 stack offsets; if you can force temp_a0 into s0 the frame/offsets follow automatically. TRIED AND FAILED (all score 710 or worse): `register s32 temp_a0` (with initializer, separate declaration, inner scope), `register` on func_80241780 param, K&R decl, varargs decl, void*/s32*/s64 return types, cast chains, chained assignment in the argument, do-while(0) wrapper, dummy locals to grow frame, declaration-order swaps, all-on-one-line layout, `-O1/-O3/-g`, ido-5.3, try_local_repairs call_one_shot_scope. NEXT STEP: find the source construct that makes IDO allocate a call result to a callee-saved register when it is only used as the next call's argument \u2014 likely needs real context (the actual caller/callee bodies in the same unit, e.g. func_80241780's real body, since guide mentions IDO private-helper clobber specialization) rather than isolated permutations.\n\nRemaining blocker: target copies func_80241760 result through s0 (move s0,v0; move a0,s0; s0 saved at 0x18; ra 0x1c; spill 0x20; frame -0x28). All natural C I tried passes v0 directly (frame -0x20; score 710 vs saved best 488). Clean structural source: `s32 temp_a0 = func_80241760(); s32 sp20 = D_80251770[1]; func_80241780(temp_a0); return sp20;` with `extern s32 *D_80251770;`. Likely needs real same-unit context. Detail in add_note.",
+  "by": "opencode-hy4-flash-free-2",
+  "created_at": 1795350361.4048991,
+  "score_before": 710,
+  "score_after": 710,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:2b8ed217c02cd1a2fb42db8031a75f4260986ca38c9d4e32a2f187d57577a0c3"
+ },
+ {
+  "function": "func_8029DB34",
+  "text": "Only 1 of 18 insns differs: target addiu $a1,$zero,0 vs candidate or $a1,$zero,$zero (move). ~20 C variants/flags/layout probes all identical, score 200. Matched twins func_802E9E14/8028939C emit or(move) for literal-0 s32 arg. Need a different source construct.\ntypes void*/s32/s16/u16/u8, cast/folded/local zeros, donor-style cast, one-line body, pointer_block_scope\nAll identical: only diff addiu vs or(move) on a1; score 200 throughout",
+  "by": "opencode-hy4-flash-free-1",
+  "created_at": 1795350422.6915221,
+  "score_before": 200,
+  "score_after": 200,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:9298ca1e7d17fafaf06166638ad65345b996ff0b95a7488754f1b4814175d827"
+ },
+ {
+  "function": "func_803173C4",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: stack layout; first differing row 0; 10 differing rows (10 stack; advisory).\nTarget: addiu $sp, $sp, -0xa8\nCandidate: addiu $sp, $sp, -0xc0\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\ns T: addiu $sp, $sp, -0xa8 | C: addiu $sp, $sp, -0xc0\n  = sw $ra, 0x14($sp)\ns T: sw $a1, 0xac($sp) | C: sw $a1, 0xc4($sp)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nNEAR-MATCH score 10 (99.7%) \u2014 opencode-hy4-flash-free-2. Source that achieved it: replace the two `s32 sp68/sp28` locals with two 64-byte structs (`typedef struct { s32 data[16]; } UnkBuf; UnkBuf sp68; UnkBuf sp28;`), declare `f32 func_802CF734(s32 *arg0, s32 *arg1)`, call the two function pointers DIRECTLY as `(*(void (**)(...))((u8*)temp_v0 + 0x14))(call_arg, &sp68, arg0);` (this produces `lw t9,0x14($v0); jalr $t9` instead of the candidate's a3/a2), and pass `&sp68.data[0], &sp28.data[0]` to func_802CF734 (target passes ADDRESSES, not the s32 values). That fixes 27 of 37 rows at once (427 \u2192 10). REMAINING: only 10 stack-offset rows. Target frame -0xA8, ra 0x14, a1 spill 0xAC, a2 spill 0xA8, buffers at 0x28 and 0x68. Candidate frame -0xB0, a1 0xB4, a2 0xB0, buffers at 0x20 and 0x60. Everything is exactly 8 bytes too low, and the frame is 8 too big. The gap after ra is 8 bytes in the candidate (0x18-0x1F) vs 16 in the target (0x18-0x27). Adding an 8-byte dummy local (`s64 pad;` or `s32 pad[2];`) grows the frame to -0xB8 and shifts only the a-spills, NOT the buffers \u2014 so that is not the fix. Also tried: single `s32 buf[32]` with `&buf[16]`/`&buf[0]`, struct\u2192union, s32 data[17], `&sp68` instead of `&sp68.data[0]` \u2014 all give the identical instruction stream (score 10). NEXT STEP: find what makes IDO place the two 64-byte locals at 0x28/0x68 with frame 0xA8 instead of 0x20/0x60 with frame 0xB0; likely a declaration-order change (try declaring sp28 before sp68) or the real struct type/alignment from the original unit. Saved best revision 30ddc0f20457bd609a39.",
+  "by": "opencode-hy4-flash-free-2",
+  "created_at": 1795350531.368072,
+  "score_before": 427,
+  "score_after": 10,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:f6ed25c85424c7783e45a66611f6e77c3ce726c07c23d5b137a0aa0781e5bab2"
+ },
+ {
+  "function": "func_8029DAB0",
+  "text": "func_8029DAB0 stalled at score 130 (91.3%); close to target structurally (15 vs 16 insns, branch offset diffs). Released to move to next eligible function.\nSubmitted best-source draft (m2c-style C with __repair_home0, var_a0, func_802C676C/func_8031C778 calls); residual diff small and localized to prologue/epilogue and branch layout.\nScore 130 (91.3%) after fixing C to compile; residual diff: one extra instruction plus shifted branch targets (target 15 insns, candidate 16; bnez/beqz offsets 0x1c/0x28 vs 0x20/0x2c).",
+  "by": "opencode-flint-40b-free-4",
+  "created_at": 1795350540.7217019,
+  "score_before": 130,
+  "score_after": 130,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:af8c468cc49fee30db2c768a0c03d2a3e84e6158edbad87f6391410c1f9972d0"
+ },
+ {
+  "function": "func_8028BCC0",
+  "text": "Matched at score 0 by inlining the repeated arg0->field_C load (two M2C_FIELD(arg0, void**, 0xC) expressions) instead of a named temp_v1. IDO CSEs the loads but allocates v1 to the root pointer and v0 to the derived pointer, matching target. Named-temp version scored 25 with v0/v1 swapped; declaration/type/order variants were inert.",
+  "by": "opencode-hy4-flash-free-1",
+  "created_at": 1795350596.231903,
+  "score_before": 25,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:be0fdbac62bc11d16f5392a25938a71b035e176f38c575f8bf15f9ba9ab1fd7d"
+ },
+ {
+  "function": "func_8029DB7C",
+  "text": "Stalled at score 200 (single diff: expected addiu $a1,$zero,0 vs compiled move $a1,$zero = or $a1,$zero,$zero). Verified identical twin func_80308C0C (100% similar, same offsets 0xB0/0xF0/0x54/0x50, same size/insn count) has retargeted C that likely holds the true source; pivoting there to learn the source construct that forces addiu.",
+  "by": "opencode-flint-40b-free-3",
+  "created_at": 1795350670.4601321,
+  "score_before": 200,
+  "score_after": 200,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:0406551730a348bd8ea4991d9f8af9961325e26a868d69f55f1de735975048e0"
+ },
+ {
+  "function": "func_8028987C",
+  "text": "Low progress after 27 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: constants / addresses; first differing row 18; 35 differing rows (3 opcode, 21 register, 3 operand, 4 inserted, 4 deleted; advisory).\nTarget: addiu $a1, $zero, 0\nCandidate: move $a1, $zero\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = addiu $a0, $sp, 0x54\n  = lwc1 $f6, 0x30($s0)\n| T: addiu $a1, $zero, 0 | C: move $a1, $zero\n  = swc1 $f6, 0x84($sp)\n  = lwc1 $f8, 0x34($s0)\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nBEST SOURCE = revision da97beadaabb790842b3 (score 1535, improved from 1948). Key discoveries:\n1) The 64-byte matrix local must be `M2C_UNK sp54[17]` (17 words, 68 bytes). IDO 7.1 aligns an array so the FRAME END is 8-aligned: 16 words gave matrix at $sp+0x58 (wrong), 17 words gives exactly $sp+0x54 and frame -0x98. Do NOT use a struct/f32[16] wrapper; they stay 8-aligned at 0x58. Also do not declare 16 separate scalars (IDO still put the address-taken one at 0x58).\n2) The three floats are the matrix tail: sp54[12]/[13]/[14] at 0x84/0x88/0x8C.\n3) The second loop's `* 2.0f` must be written `* (f32)2` (integer cast to float). Literal 2.0f is strength-reduced by IDO to `add.s $f,$f,$f` (score 1946); `(f32)2` emits the target's `mul.s $f,$f,$f20` with 0x40000000 hoisted (score 1535). `2.0` (double) was much worse.\n4) Indirect-call second arg should be `M2C_UNK` (s32), giving `0x40500000`/`0x40400000` lui args correctly.\nREMAINING (35 diff rows: 21 regalloc, 4 missing, 4 extra, 3 operand, 2 opcode):\n- 2x `addiu $a1,$zero,0` in target vs our `move $a1,$zero`. Tried (s32)0, 0U, (s8)0, (u8)0, (s16)0, (s64)0, 0L, f32 0.0f, and 3 different func-ptr param types: ALL produced identical assembly (no diff rows changed). NOT the argument type/cast.\n- First loop float constants load in opposite order: target `lui 0x3e00` (0.125) into f22 then `lui 0x3e80` (0.25) into f20, with `mul.s f4,f18,f22; add.s f6,f20,f4`. Ours loads 0x3e80 into f22, 0x3e00 into f20, `mul.s f4,f18,f20; add.s f6,f4,f22`. Tried source expression reordering `((f32)i*0.125f)+0.25f` and `0.25f+(0.125f*(f32)i)`: no assembly change. Likely register allocation / a named float local, not expression order.\n- Register allocation: target uses s0=var_s0, s1=var_s1, s2=var_s2; ours swaps s0/s1. Moving var_s0's declaration had no effect. Try `try_local_repairs(families=[\"mapped_register_lifetime\",\"value_lifetime\"])`, or a struct-typed local for the three object pointers.\n- Target first-loop reads back 0x88/0x8c/0x84 in that order; ours has an extra `lwc1` scheduled differently (4 missing/4 extra). Follows from the above.\nNEXT STEP: try `try_local_repairs` on revision da97beadaabb790842b3 with families mapped_register_lifetime/value_lifetime/constant_local, anchored on the first-loop float expression; do not repeat the cast/expression-order experiments above.",
+  "by": "opencode-big-pickle-2",
+  "created_at": 1795350685.346483,
+  "score_before": 1948,
+  "score_after": 1535,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:52cacbc9c7d5bb06409e061fe3c2e9b58771bacc09d5325f97a5b5e6bafbd0ac"
+ },
+ {
+  "function": "func_8031C778",
+  "text": "Matched at score 0. Key: use the `arg0` parameter directly in the short-circuit `if ((arg0 != NULL) || ((arg0 = func_802C676C(0xF0), arg0 != NULL)))` and throughout the body/return. A local var_a0 copy caused extra `move $a1,$a0`, a 0x20 frame and a 0x1c spill; using arg0 directly gives the target's 0x18 frame and 0x18($sp) spill (outgoing arg area). Nested if + early return gave the wrong beqz/bnez branch shape; the `||` form is correct.",
+  "by": "opencode-hy4-flash-free-1",
+  "created_at": 1795350700.953035,
+  "score_before": 1067,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:585d4cd3818179158ee5ce8c8411a4a87543a238bde32952ec400e8726e0d89d"
+ },
+ {
+  "function": "func_8031D8D0",
+  "text": "Matched at score 0 using the same pattern as func_8031C778: use `arg0` parameter directly in the `if ((arg0 != NULL) || ((arg0 = func_802C676C(0xF0), arg0 != NULL)))` and throughout, no var_a0 local. Correct data symbols from target: D_8033481C (pointer at +0xB8) and `extern f32 D_803477F4` assigned directly to +0xE0 (produces lwc1, not an int->float cast). Draft had wrong symbols D_80335ADC/D_803477FC.",
+  "by": "opencode-hy4-flash-free-1",
+  "created_at": 1795350734.244415,
+  "score_before": 0,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:df0cbf3795fb90d4e6ba6208b81f2e5b661f5460fffb2e1fc5e61195ec6b2c21"
+ },
+ {
+  "function": "func_80317D98",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795350775.406401,
+  "score_before": 40,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:09d3937aa610a366f2407e9cec2b73c6a85b7c7d9b5234ad0cd8d70d3a148366"
+ },
+ {
+  "function": "func_80317F74",
+  "text": "Autopilot matched from saved near miss",
+  "by": "autopilot",
+  "created_at": 1795350782.384326,
+  "score_before": 40,
+  "score_after": 0,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:62c88b3049032e0a84f4966403aaee2db5fcebb3e385faa26274feed2e846ac8"
+ },
+ {
+  "function": "func_8031DD80",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: stack layout; first differing row 2; 16 differing rows (10 register, 1 stack, 1 operand, 4 reordered; advisory).\nTarget: \nCandidate: sw $ra, 0x1c($sp)\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\n  = addiu $sp, $sp, -0x28\n  = sw $s0, 0x18($sp)\no T:  | C: sw $ra, 0x1c($sp)\no T:  | C: bnez $a0, 0x24\n  = move $s0, $a0\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.\n\nBest score 177, not matched. Saved best C is the m2c draft (revision df51d3ff0fa71a691d3d) with `sp24`, `temp_a0`, `temp_v0`, `var_s0` locals. Remaining diffs: frame 0x38 vs target 0x28 (16 bytes too large), spill reload goes to $a0 instead of $t6, constants in t6-t9 instead of target t7-t0. Removing sp24 worsens to 643; removing all extras gives 181 (spill at 0x20 instead of 0x24). The target's `sw $a0,0x24($sp)` / `lw $t6,0x24($sp)` and t7-t0 constant registers were not reproduced by local-count or inlining changes. Next: investigate frame-size driver (possibly a prototype/signature difference for func_802C68B0 or func_8028A440) or try mapped_register_lifetime families.",
+  "by": "opencode-hy4-flash-free-1",
+  "created_at": 1795350909.5972118,
+  "score_before": 642,
+  "score_after": 177,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:d6570bddb917ff41165922c17a339968563d4d2ff13d8a233ce8087bc9ac0ddb"
+ },
+ {
+  "function": "func_8028A470",
+  "text": "Low progress after 24 scored trials: at most 1% score reduction over the recent window. Best source retained. Next evidence: Mismatch focus: stack layout; first differing row 0; 2 differing rows (2 stack; advisory).\nTarget: addiu $sp, $sp, -0x18\nCandidate: addiu $sp, $sp, -0x20\nAdvisory instruction window (normalized; exact-byte verdict unchanged):\ns T: addiu $sp, $sp, -0x18 | C: addiu $sp, $sp, -0x20\n  = sw $ra, 0x14($sp)\n  = bnez $a0, 0x20\nMore target instructions: get_assembly(focus=\"mismatch\"). Raw/paged diff: last_diff.",
+  "by": "opencode-big-pickle-2",
+  "created_at": 1795351152.232095,
+  "score_before": 114,
+  "score_after": 2,
+  "handoff_inputs": "bffc1b1acd2d3c07df921e31fb90e945c37a26203aa1924df8fa8954089645e2:b10615e3430843bc5ddfe193a9aae494e2e5b295d810ee1561f779678b92091c:54c067e1333c0ccd4ca33a19ea10e4a6f093ffb60c8916fbbb2926f7bef2a829"
+ }
+]

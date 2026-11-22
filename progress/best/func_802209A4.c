@@ -1,0 +1,115 @@
+s32 osVirtualToPhysical(s32, s32 **);
+extern s32 D_8024E858;
+extern u16 D_8024E874;
+extern s32 *D_80273B90;
+extern s32 D_80273B98;
+extern s32 D_80273BA0;
+extern s32 D_80274388;
+void func_802209A4(void *arg0)
+{
+  s32 *temp_v1_13;
+  s32 *sp18;
+  s32 *temp_t3;
+  s32 *temp_t4;
+  s32 *temp_v1_16;
+  s32 *temp_v1_7;
+  s32 *temp_v1_10;
+  s32 *temp_v1_17;
+  s32 *sp24;
+  s32 *temp_v1_14;
+  register s32 *temp_v1_15;
+  s32 *temp_v1_12;
+  s32 *temp_v1_2;
+  register s32 *temp_v1_5;
+  s32 *temp_v1_3;
+  s32 *temp_v1_4;
+  s32 *temp_v1;
+  s32 *temp_v1_6;
+  s32 *temp_v1_9;
+  s32 *temp_v1_8;
+  s32 *temp_v1_11;
+  unsigned temp_t6;
+  temp_v1 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1) + 8;
+  *((s32 *) (((char *) temp_v1) + 4)) = 0x22000;
+  *((s32 *) (((char *) temp_v1) + 0)) = 0xB6000000;
+  temp_v1_2 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1_2) + 8;
+  *((s32 *) (((char *) temp_v1_2) + 4)) = 0x1005;
+  *((s32 *) (((char *) temp_v1_2) + 0)) = 0xB7000000;
+  temp_v1_3 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1_3) + 8;
+  *((s32 *) (((char *) temp_v1_3) + 0)) = 0xE7000000;
+  *((s32 *) (((char *) temp_v1_3) + 4)) = 0;
+  temp_v1_4 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1_4) + 8;
+  *((s32 *) (((char *) temp_v1_4) + 0)) = 0xBA001402;
+  *((s16 *) (((char *) temp_v1_4) + 4)) = 0x100000;
+  temp_v1_5 = D_80273B90;
+  D_80273B90 = temp_v1_5 + 8;
+  *((s32 *) (((char *) temp_v1_5) + 0)) = 0xBA001001;
+  *((s32 *) (((char *) temp_v1_5) + 4)) = 0;
+  temp_v1_6 = D_80273B90;
+  D_80273B90 = temp_v1_6 + 8;
+  *((s32 *) (((char *) temp_v1_6) + 4)) = -0x3C8;
+  *((s32 *) (((char *) temp_v1_6) + 0)) = 0xFCFFFFFF;
+  temp_v1_7 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1_7) + 8;
+  *((s32 *) (((char *) temp_v1_7) + 4)) = 0;
+  *((s32 *) (((char *) temp_v1_7) + 0)) = 0xE7000000;
+  temp_v1_8 = D_80273B90;
+  D_80273B90 = temp_v1_8 + 8;
+  *((s32 *) (((char *) temp_v1_8) + 0)) = 0xB900031D;
+  *((s32 *) (((char *) temp_v1_8) + 4)) = 0x0C184A50;
+  temp_v1_9 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1_9) + 8;
+  *((s32 *) (((char *) temp_v1_9) + 0)) = 0xFF10013F;
+  sp24 = temp_v1_9;
+  if (1)
+  {
+    temp_v1_9 = 0;
+    *((s32 *) (((char *) sp24) + 4)) = osVirtualToPhysical(D_80274388, &D_80273B90);
+    temp_v1_10 = D_80273B90;
+    D_80273B90 = ((s8 *) temp_v1_10) + 8;
+    *((s32 *) (((char *) temp_v1_10) + 0)) = 0x06000000;
+    *((s32 *) (((char *) temp_v1_10) + 4)) = (s32) (*((s32 *) (((char *) arg0) + 0xC)));
+  }
+  temp_v1_11 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1_11) + 8;
+  *((s32 *) (((char *) temp_v1_11) + 0)) = 0xE7000000;
+  *((s32 *) (((char *) temp_v1_11) + 4)) = 0;
+  temp_v1_12 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1_12) + 8;
+  *((s32 *) (((char *) temp_v1_12) + 0)) = 0xFF10013F;
+  sp18 = temp_v1_12;
+  *((s32 *) (((char *) sp18) + 4)) = osVirtualToPhysical(D_8024E858, &D_80273B90);
+  temp_v1_13 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1_13) + 8;
+  if (1)
+  {
+    *((s32 *) (((char *) temp_v1_13) + 0)) = 0xFCFFFFFF;
+  }
+  *((s32 *) (((char *) temp_v1_13) + 4)) = 0xFFFE7838;
+  temp_v1_14 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1_14) + 8;
+  *((s32 *) (((char *) temp_v1_14) + 4)) = 0x0C184A50;
+  *((s32 *) (((char *) temp_v1_14) + 0)) = 0xB900031D;
+  temp_v1_15 = D_80273B90;
+  D_80273B90 = temp_v1_15 + 8;
+  *((s32 *) (((char *) temp_v1_15) + 4)) = 0x1000;
+  *((s32 *) (((char *) temp_v1_15) + 0)) = 0xB6000000;
+  temp_v1_16 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1_16) + 8;
+  *((s32 *) (((char *) temp_v1_16) + 4)) = 0x2000;
+  *((s32 *) (((char *) temp_v1_16) + 0)) = 0xB7000000;
+  temp_v1_17 = D_80273B90;
+  D_80273B90 = ((s8 *) temp_v1_17) + 8;
+  *((s32 *) (((char *) temp_v1_17) + 0)) = 0x06000000;
+  *((s32 *) (((char *) temp_v1_17) + 4)) = (s32) (*((s32 *) (((char *) arg0) + 0xC)));
+  temp_t6 = D_8024E874 * 4;
+  temp_t3 = temp_t6 + (&D_80273B98);
+  *temp_t3 += (*((s16 *) (((char *) arg0) + 4))) * 2;
+  temp_t4 = temp_t6 + (&D_80273BA0);
+  *temp_t4 = (*temp_t4) + ((*((s16 *) (((char *) arg0) + 6))) * 2);
+}
+

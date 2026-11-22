@@ -1,0 +1,121 @@
+name: Aero Fighters Assaul (North America)
+sha1: 6742f67d7d2639072e186d240237be1c662cb25a
+options:
+  disassemble_all: true
+  auto_decompile_empty_functions: false
+  basename: aerofightersassaul
+  target_path: baserom.z64
+  elf_path: build/aerofightersassaul.elf
+  base_path: .
+  platform: n64
+  compiler: IDO
+  ld_script_path: aerofightersassaul.ld
+  ld_dependencies: true
+  find_file_boundaries: true
+  header_encoding: ASCII
+  o_as_suffix: true
+  use_legacy_include_asm: false
+  mips_abi_float_regs: o32
+  symbol_addrs_path:
+  - symbol_addrs.txt
+  reloc_addrs_path:
+  - reloc_addrs.txt
+  extensions_path: tools/splat_ext
+  rodata_string_guesser_level: 2
+  data_string_guesser_level: 2
+  create_bss_pads: false
+segments:
+- name: header
+  type: header
+  start: 0
+- name: ipl3
+  type: bin
+  start: 64
+- name: entry
+  type: code
+  start: 4096
+  vram: 2149580880
+  subsegments:
+  - - 4096
+    - hasm
+- name: main
+  type: code
+  start: 4176
+  vram: 2149580960
+  follows_vram: entry
+  bss_size: 198336
+  subsegments:
+  - - 4176
+    - c
+    - main
+  - - 311376
+    - data
+  - type: bss
+    vram: 2149936496
+- name: code_80287430
+  type: code
+  start: 359712
+  vram: 2150134832
+  subsegments:
+  - - 359712
+    - c
+    - code_80287430
+- name: code_802AD9D0
+  type: code
+  start: 516800
+  vram: 2150291920
+  subsegments:
+  - - 516800
+    - c
+    - code_802AD9D0
+- name: code_802AECD8
+  type: code
+  start: 521672
+  vram: 2150296792
+  subsegments:
+  - - 521672
+    - c
+    - code_802AECD8
+- name: code_802BA0B4
+  type: code
+  start: 567716
+  vram: 2150342836
+  subsegments:
+  - - 567716
+    - c
+    - code_802BA0B4
+- name: code_802BBCB4
+  type: code
+  start: 574884
+  vram: 2150350004
+  subsegments:
+  - - 574884
+    - c
+    - code_802BBCB4
+- name: code_802E4034
+  type: code
+  start: 739620
+  vram: 2150514740
+  subsegments:
+  - - 739620
+    - c
+    - code_802E4034
+- name: code_802E6DAC
+  type: code
+  start: 751260
+  vram: 2150526380
+  subsegments:
+  - - 751260
+    - c
+    - code_802E6DAC
+- name: code_802EB090
+  type: code
+  start: 768384
+  vram: 2150543504
+  subsegments:
+  - - 768384
+    - c
+    - code_802EB090
+- type: bin
+  start: 998576
+- - 8388608
